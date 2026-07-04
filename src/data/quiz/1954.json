@@ -1,1 +1,70 @@
-{ "year": 1954, "passScore": 70, "questions": [] }
+{
+  "year": 1954,
+  "passScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Chiến dịch Điện Biên Phủ toàn thắng vào ngày nào?",
+      "options": ["13/03/1954", "01/05/1954", "07/05/1954", "21/07/1954"],
+      "correctIndex": 2,
+      "explanation": "Chiều 07/05/1954, quân ta đánh chiếm sở chỉ huy, bắt sống tướng De Castries — chiến dịch toàn thắng sau 56 ngày đêm."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Phương châm tác chiến cuối cùng của ta trong chiến dịch Điện Biên Phủ là gì?",
+      "options": [
+        "Đánh nhanh, thắng nhanh",
+        "Đánh chắc, tiến chắc",
+        "Thần tốc, táo bạo",
+        "Vườn không nhà trống"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại tướng Võ Nguyên Giáp quyết định chuyển từ “đánh nhanh, thắng nhanh” sang “đánh chắc, tiến chắc” — quyết định mà ông gọi là khó khăn nhất trong đời cầm quân."
+    },
+    {
+      "id": "q3",
+      "type": "guess-figure",
+      "question": "Người anh hùng trong ảnh — đã lấy thân mình lấp lỗ châu mai trong trận Him Lam — là ai?",
+      "image": "/images/figures/phan-dinh-giot.webp",
+      "hint": "Hy sinh ngay trong trận mở màn chiến dịch, ngày 13/03/1954.",
+      "options": ["Phan Đình Giót", "Tô Vĩnh Diện", "Bế Văn Đàn", "La Văn Cầu"],
+      "correctIndex": 0,
+      "explanation": "Anh hùng Phan Đình Giót lấy thân mình lấp lỗ châu mai trong trận đánh cứ điểm Him Lam mở màn chiến dịch. Tô Vĩnh Diện là người lấy thân chèn pháo, Bế Văn Đàn lấy thân làm giá súng."
+    },
+    {
+      "id": "q4",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Pháp nhảy dù chiếm Điện Biên Phủ" },
+        { "id": "b", "label": "Mở màn chiến dịch — đánh Him Lam" },
+        { "id": "c", "label": "Bắt sống tướng De Castries" },
+        { "id": "d", "label": "Ký Hiệp định Genève" }
+      ],
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự: Pháp chiếm Điện Biên Phủ (20/11/1953) → mở màn chiến dịch (13/03/1954) → toàn thắng (07/05/1954) → Hiệp định Genève (21/07/1954)."
+    },
+    {
+      "id": "q5",
+      "type": "matching",
+      "question": "Ghép sự kiện với mốc thời gian tương ứng:",
+      "pairs": [
+        { "left": "Mở màn đánh Him Lam", "right": "13/03/1954" },
+        { "left": "Toàn thắng Điện Biên Phủ", "right": "07/05/1954" },
+        { "left": "Ký Hiệp định Genève", "right": "21/07/1954" },
+        { "left": "Giải phóng Thủ đô Hà Nội", "right": "10/10/1954" }
+      ],
+      "explanation": "Chuỗi sự kiện năm 1954: mở màn 13/03 → toàn thắng 07/05 → Hiệp định Genève 21/07 → bộ đội ta tiếp quản, giải phóng Thủ đô 10/10."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Hiệp định Genève 1954 quy định lấy vĩ tuyến nào làm giới tuyến quân sự tạm thời?",
+      "options": ["Vĩ tuyến 16", "Vĩ tuyến 17", "Vĩ tuyến 18", "Vĩ tuyến 20"],
+      "correctIndex": 1,
+      "explanation": "Hiệp định Genève lấy vĩ tuyến 17 (sông Bến Hải, Quảng Trị) làm giới tuyến quân sự tạm thời — dự kiến tổng tuyển cử thống nhất đất nước vào tháng 7/1956."
+    }
+  ]
+}

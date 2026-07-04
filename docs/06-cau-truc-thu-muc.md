@@ -13,13 +13,7 @@ web-spst/
 │   │   ├── 1975/
 │   │   ├── 1986/
 │   │   └── figures/             # Chân dung nhân vật (dùng chung giữa các era)
-│   ├── sounds/
-│   │   ├── click.mp3
-│   │   ├── start.mp3
-│   │   ├── travel.mp3
-│   │   ├── correct.mp3
-│   │   └── wrong.mp3
-│   └── favicon.svg
+│   └── favicon.svg          # (âm thanh tổng hợp bằng Web Audio — không cần file mp3)
 ├── src/
 │   ├── main.jsx                 # Entry point
 │   ├── App.jsx                  # Router + providers

@@ -39,18 +39,28 @@ Toàn bộ tài liệu nằm trong thư mục [docs/](docs/):
 | [07 — Kế hoạch phát triển](docs/07-ke-hoach-phat-trien.md) | Các giai đoạn phát triển, milestone, phân chia công việc |
 | [08 — Triển khai](docs/08-trien-khai.md) | Hướng dẫn build và deploy lên Vercel / GitHub Pages |
 
-## Bắt đầu phát triển (dự kiến)
+## Bắt đầu phát triển
 
 ```bash
 # Cài đặt dependencies
 npm install
 
-# Chạy môi trường dev
+# Chạy môi trường dev (http://localhost:5173)
 npm run dev
 
 # Build production
 npm run build
+
+# Kiểm tra code style
+npm run lint
 ```
+
+## Bổ sung media (việc còn lại)
+
+Code và nội dung chữ đã hoàn thiện. Hai thứ cần bổ sung thủ công:
+
+1. **Hình ảnh tư liệu** — đặt vào `public/images/<năm>/` và `public/images/figures/` theo đúng đường dẫn đã khai báo trong các file `src/data/eras/*.json`. Khi chưa có ảnh, giao diện tự hiển thị ô placeholder theo màu chủ đề (không vỡ layout). Ưu tiên ảnh public domain / Wikimedia Commons, nén WebP.
+2. **Video YouTube** — thêm vào mảng `videos` trong từng file era JSON: `{ "youtubeId": "...", "title": "..." }`. Chọn video tư liệu cho phép nhúng.
 
 ## Giấy phép
 

@@ -1,1 +1,70 @@
-{ "year": 1986, "passScore": 70, "questions": [] }
+{
+  "year": 1986,
+  "passScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Đại hội nào của Đảng khởi xướng công cuộc Đổi Mới?",
+      "options": ["Đại hội IV", "Đại hội V", "Đại hội VI", "Đại hội VII"],
+      "correctIndex": 2,
+      "explanation": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (15 – 18/12/1986) đề ra đường lối Đổi Mới toàn diện đất nước."
+    },
+    {
+      "id": "q2",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — Tổng Bí thư đầu tiên của thời kỳ Đổi Mới — là ai?",
+      "image": "/images/figures/nguyen-van-linh.webp",
+      "hint": "Tác giả loạt bài “Những việc cần làm ngay” ký tên N.V.L.",
+      "options": ["Nguyễn Văn Linh", "Trường Chinh", "Đỗ Mười", "Phạm Văn Đồng"],
+      "correctIndex": 0,
+      "explanation": "Đồng chí Nguyễn Văn Linh được Đại hội VI bầu làm Tổng Bí thư (1986–1991), nổi tiếng với loạt bài “Những việc cần làm ngay” ký tên N.V.L trên báo Nhân Dân."
+    },
+    {
+      "id": "q3",
+      "type": "multiple-choice",
+      "question": "Tinh thần nổi bật của Đại hội VI được khái quát trong câu nào?",
+      "options": [
+        "Thần tốc, táo bạo, bất ngờ, chắc thắng",
+        "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật",
+        "Đánh chắc, tiến chắc",
+        "Tất cả cho tiền tuyến, tất cả để chiến thắng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại hội VI nêu cao tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” — thẳng thắn thừa nhận sai lầm để đổi mới."
+    },
+    {
+      "id": "q4",
+      "type": "ordering",
+      "question": "Sắp xếp các dấu mốc của tiến trình Đổi Mới theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Chỉ thị 100 — khoán sản phẩm trong nông nghiệp" },
+        { "id": "b", "label": "Đại hội VI khởi xướng Đổi Mới" },
+        { "id": "c", "label": "Luật Đầu tư nước ngoài đầu tiên" },
+        { "id": "d", "label": "Việt Nam trở lại xuất khẩu gạo" }
+      ],
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự: Chỉ thị 100 (1981) → Đại hội VI (12/1986) → Luật Đầu tư nước ngoài (12/1987) → xuất khẩu 1,4 triệu tấn gạo (1989)."
+    },
+    {
+      "id": "q5",
+      "type": "matching",
+      "question": "Ôn tập cả hành trình: ghép sự kiện với năm diễn ra:",
+      "pairs": [
+        { "left": "Thành lập Đảng Cộng sản Việt Nam", "right": "1930" },
+        { "left": "Tuyên ngôn Độc lập", "right": "1945" },
+        { "left": "Chiến thắng Điện Biên Phủ", "right": "1954" },
+        { "left": "Giải phóng miền Nam", "right": "1975" }
+      ],
+      "explanation": "Bốn mốc son bạn đã du hành qua: 1930 thành lập Đảng → 1945 độc lập → 1954 Điện Biên Phủ → 1975 thống nhất — và 1986 mở ra thời kỳ Đổi Mới."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Chính sách nào giao ruộng đất ổn định lâu dài cho hộ nông dân, giúp Việt Nam nhanh chóng trở lại xuất khẩu gạo?",
+      "options": ["Chỉ thị 100", "Nghị quyết 10 (Khoán 10)", "Luật Đất đai 1993", "Hợp tác hóa nông nghiệp"],
+      "correctIndex": 1,
+      "explanation": "Nghị quyết 10 của Bộ Chính trị (04/1988), quen gọi là “Khoán 10”, giao ruộng đất cho hộ nông dân — chỉ một năm sau, Việt Nam xuất khẩu 1,4 triệu tấn gạo."
+    }
+  ]
+}

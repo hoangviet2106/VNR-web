@@ -2,12 +2,94 @@
   "year": 1986,
   "title": "Công cuộc Đổi Mới",
   "heroImage": "/images/1986/hero.webp",
-  "intro": "",
-  "context": { "heading": "Bối cảnh lịch sử", "paragraphs": [], "image": "", "imageCaption": "" },
-  "events": [],
-  "figures": [],
-  "timeline": [],
+  "intro": "Tháng 12 năm 1986, Đại hội VI của Đảng mở ra bước ngoặt: nhìn thẳng vào sự thật và khởi xướng công cuộc Đổi Mới toàn diện đất nước.",
+  "context": {
+    "heading": "Bối cảnh lịch sử",
+    "paragraphs": [
+      "Sau ngày thống nhất, đất nước xây dựng kinh tế theo mô hình kế hoạch hóa tập trung, bao cấp. Đến giữa thập niên 1980, Việt Nam lâm vào khủng hoảng kinh tế — xã hội trầm trọng: sản xuất đình đốn, hàng hóa khan hiếm, lạm phát năm 1986 lên tới ba con số.",
+      "Trong khó khăn, những tìm tòi “xé rào” như khoán sản phẩm trong nông nghiệp (Chỉ thị 100 năm 1981) cho thấy hướng đi mới. Yêu cầu đổi mới tư duy, trước hết là tư duy kinh tế, trở nên cấp bách.",
+      "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (12/1986) với tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” đã đề ra đường lối Đổi Mới toàn diện — mốc son mở ra thời kỳ phát triển mới của đất nước."
+    ],
+    "image": "/images/1986/context.webp",
+    "imageCaption": "Cảnh xếp hàng mua hàng bằng tem phiếu — ký ức của thời bao cấp"
+  },
+  "events": [
+    {
+      "id": "ev-1986-01",
+      "date": "15 – 18/12/1986",
+      "title": "Đại hội VI của Đảng — khởi xướng Đổi Mới",
+      "description": "Đại hội thẳng thắn chỉ ra sai lầm, đề ra đường lối Đổi Mới toàn diện: đổi mới tư duy kinh tế, xóa bỏ cơ chế tập trung quan liêu bao cấp, phát triển kinh tế hàng hóa nhiều thành phần.",
+      "image": "/images/1986/ev-01.webp",
+      "highlight": true
+    },
+    {
+      "id": "ev-1986-02",
+      "date": "12/1986",
+      "title": "Đồng chí Nguyễn Văn Linh làm Tổng Bí thư",
+      "description": "Đại hội VI bầu đồng chí Nguyễn Văn Linh — người từng ủng hộ mạnh mẽ các thí điểm cải cách ở TP. Hồ Chí Minh — làm Tổng Bí thư, trực tiếp lèo lái con thuyền Đổi Mới.",
+      "image": "/images/1986/ev-02.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1986-03",
+      "date": "12/1987",
+      "title": "Luật Đầu tư nước ngoài đầu tiên",
+      "description": "Quốc hội thông qua Luật Đầu tư nước ngoài — một trong những đạo luật cởi mở nhất khu vực lúc bấy giờ, mở cánh cửa đón vốn và công nghệ quốc tế vào Việt Nam.",
+      "image": "/images/1986/ev-03.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1986-04",
+      "date": "04/1988",
+      "title": "Nghị quyết 10 — “Khoán 10” trong nông nghiệp",
+      "description": "Bộ Chính trị ra Nghị quyết 10 giao ruộng đất ổn định lâu dài cho hộ nông dân. Chỉ một năm sau, từ chỗ thiếu ăn, Việt Nam xuất khẩu 1,4 triệu tấn gạo.",
+      "image": "/images/1986/ev-04.webp",
+      "highlight": false
+    }
+  ],
+  "figures": [
+    {
+      "id": "fig-nguyen-van-linh",
+      "name": "Nguyễn Văn Linh",
+      "role": "Tổng Bí thư — “Tổng công trình sư” của Đổi Mới",
+      "portrait": "/images/figures/nguyen-van-linh.webp",
+      "bio": "Tổng Bí thư đầu tiên của thời kỳ Đổi Mới (1986–1991). Nổi tiếng với loạt bài “Những việc cần làm ngay” ký tên N.V.L trên báo Nhân Dân, thúc đẩy chống tiêu cực và nói thẳng, nói thật.",
+      "quote": "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật."
+    },
+    {
+      "id": "fig-truong-chinh-1986",
+      "name": "Trường Chinh",
+      "role": "Tổng Bí thư (7 – 12/1986), người đặt nền móng tư duy Đổi Mới",
+      "portrait": "/images/figures/truong-chinh.webp",
+      "bio": "Trên cương vị Tổng Bí thư sau khi đồng chí Lê Duẩn từ trần, ông chủ trì chuẩn bị văn kiện Đại hội VI với tinh thần quyết liệt: “đổi mới là mệnh lệnh của cuộc sống”.",
+      "quote": "Đối với nước ta, đổi mới là yêu cầu bức thiết, là vấn đề có tầm quan trọng sống còn."
+    }
+  ],
+  "timeline": [
+    { "date": "01/1981", "label": "Chỉ thị 100 — khoán sản phẩm trong nông nghiệp" },
+    { "date": "07/1986", "label": "Đồng chí Trường Chinh làm Tổng Bí thư, chuẩn bị văn kiện Đổi Mới" },
+    { "date": "15 – 18/12/1986", "label": "Đại hội VI — khởi xướng công cuộc Đổi Mới" },
+    { "date": "12/1987", "label": "Luật Đầu tư nước ngoài được thông qua" },
+    { "date": "04/1988", "label": "Nghị quyết 10 (“Khoán 10”) về nông nghiệp" },
+    { "date": "1989", "label": "Việt Nam trở lại xuất khẩu gạo (1,4 triệu tấn)" }
+  ],
   "videos": [],
-  "funFacts": [],
-  "sources": []
+  "funFacts": [
+    {
+      "question": "Lạm phát năm 1986 cao đến mức nào?",
+      "answer": "Năm 1986, lạm phát ở Việt Nam lên tới khoảng 774% — nghĩa là giá cả tăng gần 9 lần chỉ trong một năm. Đây là một trong những lý do khiến Đổi Mới trở thành “mệnh lệnh của cuộc sống”."
+    },
+    {
+      "question": "N.V.L là ai?",
+      "answer": "Từ năm 1987, trên báo Nhân Dân xuất hiện loạt bài “Những việc cần làm ngay” ký tên N.V.L gây chấn động dư luận vì dám nói thẳng vào tiêu cực. Tác giả chính là Tổng Bí thư Nguyễn Văn Linh."
+    },
+    {
+      "question": "Từ thiếu ăn đến cường quốc xuất khẩu gạo?",
+      "answer": "Trước Đổi Mới, Việt Nam phải nhập khẩu lương thực. Chỉ sau “Khoán 10” một năm, năm 1989 Việt Nam xuất khẩu 1,4 triệu tấn gạo, và ngày nay luôn nằm trong nhóm nước xuất khẩu gạo hàng đầu thế giới."
+    }
+  ],
+  "sources": [
+    "Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam",
+    "Văn kiện Đại hội đại biểu toàn quốc lần thứ VI, NXB Sự thật"
+  ]
 }

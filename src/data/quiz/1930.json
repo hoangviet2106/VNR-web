@@ -1,1 +1,70 @@
-{ "year": 1930, "passScore": 70, "questions": [] }
+{
+  "year": 1930,
+  "passScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 diễn ra ở đâu?",
+      "options": ["Cửu Long (Hương Cảng, Trung Quốc)", "Quảng Châu (Trung Quốc)", "Pác Bó (Cao Bằng)", "Ma Cao (Trung Quốc)"],
+      "correctIndex": 0,
+      "explanation": "Hội nghị hợp nhất diễn ra tại Cửu Long, Hương Cảng (Hồng Kông ngày nay) từ 06/01 đến 07/02/1930, dưới sự chủ trì của Nguyễn Ái Quốc."
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Ai là người soạn thảo Chính cương vắn tắt, Sách lược vắn tắt — Cương lĩnh chính trị đầu tiên của Đảng?",
+      "options": ["Trần Phú", "Nguyễn Ái Quốc", "Lê Hồng Phong", "Hà Huy Tập"],
+      "correctIndex": 1,
+      "explanation": "Chính cương vắn tắt và Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo, được Hội nghị hợp nhất thông qua đầu năm 1930. Còn Luận cương chính trị (10/1930) do Trần Phú soạn."
+    },
+    {
+      "id": "q3",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Hội Việt Nam Cách mạng Thanh niên thành lập" },
+        { "id": "b", "label": "Ba tổ chức cộng sản lần lượt ra đời" },
+        { "id": "c", "label": "Hội nghị hợp nhất thành lập Đảng" },
+        { "id": "d", "label": "Trần Phú trở thành Tổng Bí thư đầu tiên" }
+      ],
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự: Hội VNCM Thanh niên (1925) → ba tổ chức cộng sản (1929) → Hội nghị hợp nhất (đầu 1930) → Trần Phú làm Tổng Bí thư (10/1930)."
+    },
+    {
+      "id": "q4",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — Tổng Bí thư đầu tiên của Đảng — là ai?",
+      "image": "/images/figures/tran-phu.webp",
+      "hint": "Người soạn thảo Luận cương chính trị tháng 10/1930, hy sinh khi mới 27 tuổi.",
+      "options": ["Trần Phú", "Lê Hồng Phong", "Nguyễn Văn Cừ", "Hà Huy Tập"],
+      "correctIndex": 0,
+      "explanation": "Đồng chí Trần Phú (1904–1931) là Tổng Bí thư đầu tiên của Đảng, nổi tiếng với câu nói trước lúc hy sinh: “Hãy giữ vững chí khí chiến đấu!”"
+    },
+    {
+      "id": "q5",
+      "type": "matching",
+      "question": "Ghép sự kiện với mốc thời gian tương ứng:",
+      "pairs": [
+        { "left": "Hội nghị hợp nhất khai mạc", "right": "06/01/1930" },
+        { "left": "Ngày kỷ niệm thành lập Đảng", "right": "03/02/1930" },
+        { "left": "Đỉnh cao Xô viết Nghệ — Tĩnh", "right": "12/09/1930" },
+        { "left": "Hội nghị TƯ cử Tổng Bí thư đầu tiên", "right": "10/1930" }
+      ],
+      "explanation": "Hội nghị hợp nhất khai mạc 06/01/1930; ngày 3/2 được chọn làm ngày kỷ niệm; cuộc biểu tình Hưng Nguyên 12/09/1930 là đỉnh cao Xô viết Nghệ — Tĩnh; tháng 10/1930 Trần Phú làm Tổng Bí thư."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Sự ra đời của Đảng Cộng sản Việt Nam là sự kết hợp giữa chủ nghĩa Mác — Lênin với những phong trào nào?",
+      "options": [
+        "Phong trào công nhân và phong trào nông dân",
+        "Phong trào công nhân và phong trào yêu nước",
+        "Phong trào yêu nước và phong trào sinh viên",
+        "Phong trào công nhân quốc tế"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đảng ra đời là sản phẩm của sự kết hợp chủ nghĩa Mác — Lênin với phong trào công nhân VÀ phong trào yêu nước — nét sáng tạo riêng của cách mạng Việt Nam."
+    }
+  ]
+}

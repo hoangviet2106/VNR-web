@@ -12,15 +12,77 @@
     },
     {
       "id": "q2",
+      "type": "multiple-choice",
+      "question": "Sự kiện nào tạo ra “thời cơ ngàn năm có một” cho Tổng khởi nghĩa Tháng Tám?",
+      "options": [
+        "Pháp rút khỏi Đông Dương",
+        "Nhật đảo chính Pháp",
+        "Phát xít Nhật đầu hàng Đồng minh",
+        "Quân Đồng minh vào Đông Dương"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngày 15/08/1945, Nhật tuyên bố đầu hàng Đồng minh khiến quân Nhật ở Đông Dương hoang mang tê liệt, trong khi quân Đồng minh chưa kịp vào — thời cơ chín muồi để Tổng khởi nghĩa."
+    },
+    {
+      "id": "q3",
       "type": "ordering",
       "question": "Sắp xếp các sự kiện năm 1945 theo trình tự thời gian:",
       "items": [
         { "id": "a", "label": "Nhật đảo chính Pháp" },
-        { "id": "b", "label": "Tổng khởi nghĩa thắng lợi ở Hà Nội" },
-        { "id": "c", "label": "Tuyên ngôn Độc lập" }
+        { "id": "b", "label": "Khởi nghĩa thắng lợi ở Hà Nội" },
+        { "id": "c", "label": "Vua Bảo Đại thoái vị" },
+        { "id": "d", "label": "Tuyên ngôn Độc lập" }
       ],
-      "correctOrder": ["a", "b", "c"],
-      "explanation": "Trình tự đúng: Nhật đảo chính Pháp (09/03) → Khởi nghĩa ở Hà Nội (19/08) → Tuyên ngôn Độc lập (02/09)."
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự đúng: Nhật đảo chính Pháp (09/03) → Khởi nghĩa ở Hà Nội (19/08) → Bảo Đại thoái vị (30/08) → Tuyên ngôn Độc lập (02/09/1945)."
+    },
+    {
+      "id": "q4",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — người thành lập Đội Việt Nam Tuyên truyền Giải phóng quân — là ai?",
+      "image": "/images/figures/vo-nguyen-giap.webp",
+      "hint": "Vị Đại tướng đầu tiên của Quân đội nhân dân Việt Nam.",
+      "options": ["Võ Nguyên Giáp", "Phạm Văn Đồng", "Trường Chinh", "Văn Tiến Dũng"],
+      "correctIndex": 0,
+      "explanation": "Đại tướng Võ Nguyên Giáp thành lập Đội Việt Nam Tuyên truyền Giải phóng quân ngày 22/12/1944 — tiền thân của Quân đội nhân dân Việt Nam."
+    },
+    {
+      "id": "q5",
+      "type": "matching",
+      "question": "Ghép sự kiện với ngày diễn ra:",
+      "pairs": [
+        { "left": "Khởi nghĩa thắng lợi ở Hà Nội", "right": "19/08" },
+        { "left": "Khởi nghĩa thắng lợi ở Huế", "right": "23/08" },
+        { "left": "Khởi nghĩa thắng lợi ở Sài Gòn", "right": "25/08" },
+        { "left": "Vua Bảo Đại thoái vị", "right": "30/08" }
+      ],
+      "explanation": "Làn sóng khởi nghĩa lan từ Bắc vào Nam: Hà Nội 19/08 → Huế 23/08 → Sài Gòn 25/08; ngày 30/08 vua Bảo Đại thoái vị tại Huế."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Đại hội Quốc dân họp ở Tân Trào (16 – 17/08/1945) đã quyết định điều gì?",
+      "options": [
+        "Thành lập Đảng Cộng sản Việt Nam",
+        "Tán thành Tổng khởi nghĩa, cử ra Ủy ban Dân tộc giải phóng",
+        "Ký Hiệp định Sơ bộ với Pháp",
+        "Tuyên bố kháng chiến toàn quốc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại hội Quốc dân Tân Trào tán thành chủ trương Tổng khởi nghĩa, thông qua 10 chính sách của Việt Minh, cử ra Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Bản Tuyên ngôn Độc lập mở đầu bằng cách trích dẫn văn kiện nào?",
+      "options": [
+        "Tuyên ngôn Đảng Cộng sản",
+        "Tuyên ngôn Độc lập của Mỹ và Tuyên ngôn Nhân quyền của Pháp",
+        "Hiến chương Liên hợp quốc",
+        "Luận cương của Lênin"
+      ],
+      "correctIndex": 1,
+      "explanation": "Người mở đầu bằng “lời bất hủ” trong Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791) để khẳng định quyền dân tộc bằng chính giá trị phương Tây công nhận."
     }
   ]
 }

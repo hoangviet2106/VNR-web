@@ -1,1 +1,78 @@
-{ "year": 1975, "passScore": 70, "questions": [] }
+{
+  "year": 1975,
+  "passScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Trận đánh nào mở màn cuộc Tổng tiến công và nổi dậy mùa Xuân 1975?",
+      "options": ["Buôn Ma Thuột", "Phước Long", "Huế", "Xuân Lộc"],
+      "correctIndex": 0,
+      "explanation": "Ngày 10/03/1975, quân ta bất ngờ tiến công Buôn Ma Thuột — “đòn điểm huyệt” mở màn chiến dịch Tây Nguyên, khiến toàn bộ phòng thủ của địch ở Tây Nguyên sụp đổ. (Phước Long trước đó được coi là trận “trinh sát chiến lược”.)"
+    },
+    {
+      "id": "q2",
+      "type": "multiple-choice",
+      "question": "Chiến dịch giải phóng Sài Gòn — Gia Định được mang tên gì?",
+      "options": [
+        "Chiến dịch Tây Nguyên",
+        "Chiến dịch Hồ Chí Minh",
+        "Chiến dịch Điện Biên Phủ trên không",
+        "Chiến dịch Trường Sơn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngày 14/04/1975, Bộ Chính trị quyết định chiến dịch giải phóng Sài Gòn — Gia Định mang tên Chiến dịch Hồ Chí Minh."
+    },
+    {
+      "id": "q3",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện mùa Xuân 1975 theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Đánh Buôn Ma Thuột" },
+        { "id": "b", "label": "Giải phóng Huế" },
+        { "id": "c", "label": "Giải phóng Đà Nẵng" },
+        { "id": "d", "label": "Xe tăng tiến vào Dinh Độc Lập" }
+      ],
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự: Buôn Ma Thuột (10/03) → Huế (26/03) → Đà Nẵng (29/03) → Dinh Độc Lập, Sài Gòn (30/04/1975)."
+    },
+    {
+      "id": "q4",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — người cắm lá cờ giải phóng trên nóc Dinh Độc Lập trưa 30/04/1975 — là ai?",
+      "image": "/images/figures/bui-quang-than.webp",
+      "hint": "Trưởng xe tăng 843.",
+      "options": ["Bùi Quang Thận", "Vũ Đăng Toàn", "Nguyễn Văn Tập", "Lê Văn Phượng"],
+      "correctIndex": 0,
+      "explanation": "Đại đội trưởng Bùi Quang Thận, trưởng xe tăng 843, là người cắm cờ trên nóc Dinh Độc Lập lúc 11h30 ngày 30/04/1975."
+    },
+    {
+      "id": "q5",
+      "type": "matching",
+      "question": "Ghép địa danh với ngày giải phóng:",
+      "pairs": [
+        { "left": "Buôn Ma Thuột", "right": "10 – 11/03" },
+        { "left": "Huế", "right": "26/03" },
+        { "left": "Đà Nẵng", "right": "29/03" },
+        { "left": "Sài Gòn", "right": "30/04" }
+      ],
+      "explanation": "Cuộc Tổng tiến công lan nhanh chưa từng thấy: Buôn Ma Thuột (10–11/03) → Huế (26/03) → Đà Nẵng (29/03) → Sài Gòn (30/04/1975)."
+    },
+    {
+      "id": "q6",
+      "type": "multiple-choice",
+      "question": "Ai là Tổng thống chính quyền Sài Gòn tuyên bố đầu hàng vô điều kiện trưa 30/04/1975?",
+      "options": ["Nguyễn Văn Thiệu", "Trần Văn Hương", "Dương Văn Minh", "Nguyễn Cao Kỳ"],
+      "correctIndex": 2,
+      "explanation": "Tổng thống Dương Văn Minh (mới nhậm chức ngày 28/04) tuyên bố đầu hàng vô điều kiện trên đài phát thanh trưa 30/04/1975. Nguyễn Văn Thiệu đã từ chức và rời Việt Nam trước đó."
+    },
+    {
+      "id": "q7",
+      "type": "multiple-choice",
+      "question": "Bài hát “Như có Bác trong ngày đại thắng” do nhạc sĩ nào sáng tác?",
+      "options": ["Văn Cao", "Phạm Tuyên", "Trịnh Công Sơn", "Xuân Hồng"],
+      "correctIndex": 1,
+      "explanation": "Nhạc sĩ Phạm Tuyên sáng tác bài hát chỉ trong khoảng hai giờ đêm 28/04/1975; bài hát vang lên trên sóng phát thanh ngay trưa toàn thắng 30/04."
+    }
+  ]
+}

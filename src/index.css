@@ -17,6 +17,41 @@
 }
 
 @layer components {
+  /* Chữ glitch: 2 lớp bóng lệch kênh màu */
+  .glitch {
+    position: relative;
+  }
+  .glitch::before,
+  .glitch::after {
+    content: attr(data-text);
+    position: absolute;
+    inset: 0;
+    opacity: 0.75;
+    pointer-events: none;
+  }
+  .glitch::before {
+    color: #f472b6;
+    animation: glitch-shift 2.4s infinite steps(2, end);
+  }
+  .glitch::after {
+    color: #22d3ee;
+    animation: glitch-shift 3.1s infinite reverse steps(2, end);
+  }
+  @keyframes glitch-shift {
+    0%, 92%, 100% { transform: translate(0, 0); clip-path: inset(0 0 0 0); }
+    93% { transform: translate(-3px, 1px); clip-path: inset(10% 0 55% 0); }
+    95% { transform: translate(3px, -1px); clip-path: inset(60% 0 8% 0); }
+    97% { transform: translate(-2px, 0); clip-path: inset(30% 0 40% 0); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .glitch::before,
+    .glitch::after {
+      animation: none;
+      opacity: 0;
+    }
+  }
+
   /* Lớp phủ scanline cho không khí HUD sci-fi */
   .scanlines::before {
     content: '';

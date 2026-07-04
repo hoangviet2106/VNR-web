@@ -43,7 +43,9 @@
 | **Tailwind CSS** | Styling | Xây UI sci-fi nhanh, dễ responsive, không viết CSS rời |
 | **Framer Motion** | Animation | Khai báo animation phức tạp (tunnel, scroll-reveal, page transition) gọn gàng |
 | **React Router v6** | Routing | Điều hướng SPA, URL riêng cho từng giai đoạn |
-| **@dnd-kit** (đề xuất) | Kéo thả | Hỗ trợ cảm ứng tốt cho quiz ordering/matching |
+| **Framer Motion `Reorder`** | Kéo thả (quiz ordering) | Có sẵn trong Framer Motion, hỗ trợ cảm ứng — không cần thêm @dnd-kit |
+
+> Quiz dạng **matching** dùng cơ chế *chạm-để-ghép* (tap-to-match) thay vì kéo thả — tin cậy hơn trên màn hình cảm ứng và dễ tiếp cận hơn.
 
 ## 3. Sơ đồ Routing
 
@@ -138,10 +140,10 @@ export async function getQuiz(year) {
 
 ## 7. Xử lý âm thanh
 
-- Dùng Web Audio / thẻ `<audio>` qua hook `useSound(name)`.
-- File âm thanh đặt tại `public/sounds/` (`click.mp3`, `start.mp3`, `travel.mp3`, `correct.mp3`, `wrong.mp3`).
-- `AudioProvider` giữ trạng thái muted toàn cục; mọi tiếng đều đi qua provider để tôn trọng cài đặt.
-- Chỉ phát âm thanh sau tương tác đầu tiên của người dùng (chính sách autoplay của trình duyệt).
+- Hiệu ứng âm thanh được **tổng hợp trực tiếp bằng Web Audio API** (`src/utils/sfx.js`) — oscillator tạo tiếng click, beep, sweep khởi động, hợp âm đúng/sai. Không cần file mp3, không tốn bandwidth.
+- `AudioProvider` giữ trạng thái muted toàn cục (mặc định **tắt**); mọi tiếng đều đi qua `play(name)` của provider.
+- AudioContext chỉ được khởi tạo sau tương tác đầu tiên của người dùng (chính sách autoplay của trình duyệt).
+- Nếu sau này muốn dùng âm thanh thu sẵn, chỉ cần thay implementation trong `sfx.js`.
 
 ## 8. Hiệu năng
 

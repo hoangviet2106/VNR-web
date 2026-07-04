@@ -6,47 +6,117 @@
   "context": {
     "heading": "Bối cảnh lịch sử",
     "paragraphs": [
-      "Đầu năm 1945, Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc. Ngày 09/03/1945, Nhật đảo chính Pháp trên toàn Đông Dương, tạo ra khủng hoảng chính trị sâu sắc và thời cơ ngàn năm có một cho cách mạng Việt Nam.",
-      "Giữa tháng 8/1945, khi phát xít Nhật đầu hàng Đồng minh, Đảng và Mặt trận Việt Minh đã phát động Tổng khởi nghĩa giành chính quyền trong cả nước."
+      "Đầu năm 1945, Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc. Ngày 09/03/1945, Nhật đảo chính Pháp trên toàn Đông Dương. Cùng lúc đó, nạn đói khủng khiếp cướp đi sinh mạng của khoảng 2 triệu đồng bào miền Bắc.",
+      "Đảng phát động cao trào kháng Nhật cứu nước. Khi phát xít Nhật tuyên bố đầu hàng Đồng minh (15/08/1945), thời cơ ngàn năm có một đã đến — Đảng và Mặt trận Việt Minh lập tức phát động Tổng khởi nghĩa giành chính quyền trong cả nước.",
+      "Chỉ trong khoảng hai tuần cuối tháng 8/1945, cuộc Tổng khởi nghĩa thắng lợi trên phạm vi cả nước, hầu như không đổ máu, đưa nhân dân Việt Nam từ thân phận nô lệ trở thành người làm chủ đất nước."
     ],
     "image": "/images/1945/context.webp",
-    "imageCaption": "Quần chúng nhân dân trong những ngày Tổng khởi nghĩa Tháng Tám 1945"
+    "imageCaption": "Quần chúng nhân dân Hà Nội trong những ngày Tổng khởi nghĩa Tháng Tám 1945"
   },
   "events": [
     {
       "id": "ev-1945-01",
-      "date": "13–15/08/1945",
-      "title": "Hội nghị toàn quốc của Đảng tại Tân Trào",
-      "description": "Quyết định phát động Tổng khởi nghĩa giành chính quyền trong cả nước trước khi quân Đồng minh vào Đông Dương.",
+      "date": "13 – 15/08/1945",
+      "title": "Lệnh Tổng khởi nghĩa được ban bố",
+      "description": "Hội nghị toàn quốc của Đảng họp ở Tân Trào (Tuyên Quang) quyết định phát động Tổng khởi nghĩa giành chính quyền trước khi quân Đồng minh vào Đông Dương. Ủy ban Khởi nghĩa toàn quốc ra Quân lệnh số 1.",
       "image": "/images/1945/ev-01.webp",
       "highlight": false
     },
     {
       "id": "ev-1945-02",
-      "date": "19/08/1945",
-      "title": "Tổng khởi nghĩa thắng lợi ở Hà Nội",
-      "description": "Hàng chục vạn quần chúng chiếm Phủ Khâm sai, Trại Bảo an binh — chính quyền về tay nhân dân tại thủ đô.",
+      "date": "16 – 17/08/1945",
+      "title": "Đại hội Quốc dân Tân Trào",
+      "description": "Đại hội tán thành chủ trương Tổng khởi nghĩa, thông qua 10 chính sách của Việt Minh, cử ra Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch, quy định Quốc kỳ, Quốc ca.",
       "image": "/images/1945/ev-02.webp",
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "ev-1945-03",
-      "date": "02/09/1945",
-      "title": "Tuyên ngôn Độc lập",
-      "description": "Tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+      "date": "19/08/1945",
+      "title": "Tổng khởi nghĩa thắng lợi ở Hà Nội",
+      "description": "Hàng chục vạn quần chúng mít tinh tại Nhà hát Lớn rồi tỏa đi chiếm Phủ Khâm sai, Trại Bảo an binh — chính quyền về tay nhân dân tại thủ đô, cổ vũ cả nước vùng lên.",
       "image": "/images/1945/ev-03.webp",
+      "highlight": true
+    },
+    {
+      "id": "ev-1945-04",
+      "date": "23 – 25/08/1945",
+      "title": "Khởi nghĩa thắng lợi ở Huế và Sài Gòn",
+      "description": "Ngày 23/08 khởi nghĩa thắng lợi ở Huế, ngày 25/08 ở Sài Gòn. Đến 28/08, Tổng khởi nghĩa cơ bản thành công trong cả nước.",
+      "image": "/images/1945/ev-04.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1945-05",
+      "date": "30/08/1945",
+      "title": "Vua Bảo Đại thoái vị",
+      "description": "Tại Ngọ Môn (Huế), vua Bảo Đại trao ấn kiếm cho đại diện Chính phủ lâm thời, tuyên bố “thà làm dân một nước tự do còn hơn làm vua một nước nô lệ” — chấm dứt chế độ phong kiến hàng nghìn năm.",
+      "image": "/images/1945/ev-05.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1945-06",
+      "date": "02/09/1945",
+      "title": "Tuyên ngôn Độc lập — khai sinh nước Việt Nam Dân chủ Cộng hòa",
+      "description": "Tại Quảng trường Ba Đình (Hà Nội), trước hàng chục vạn đồng bào, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, trịnh trọng tuyên bố với thế giới về nền độc lập của dân tộc Việt Nam.",
+      "image": "/images/1945/ev-06.webp",
       "highlight": true
     }
   ],
-  "figures": [],
+  "figures": [
+    {
+      "id": "fig-ho-chi-minh",
+      "name": "Hồ Chí Minh",
+      "role": "Chủ tịch Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa",
+      "portrait": "/images/figures/ho-chi-minh.webp",
+      "bio": "Người sáng lập Đảng, lãnh tụ của Mặt trận Việt Minh. Tháng 8/1945, Người lãnh đạo toàn dân Tổng khởi nghĩa và ngày 02/09/1945 đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+      "quote": "Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thực đã thành một nước tự do, độc lập."
+    },
+    {
+      "id": "fig-vo-nguyen-giap",
+      "name": "Võ Nguyên Giáp",
+      "role": "Chỉ huy Việt Nam Giải phóng quân",
+      "portrait": "/images/figures/vo-nguyen-giap.webp",
+      "bio": "Người thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (22/12/1944) — tiền thân của Quân đội nhân dân Việt Nam. Tháng 8/1945, ông chỉ huy Giải phóng quân tiến về giải phóng Thái Nguyên rồi về Hà Nội.",
+      "quote": "Thần tốc, táo bạo, bất ngờ, chắc thắng."
+    },
+    {
+      "id": "fig-truong-chinh",
+      "name": "Trường Chinh",
+      "role": "Tổng Bí thư của Đảng",
+      "portrait": "/images/figures/truong-chinh.webp",
+      "bio": "Tổng Bí thư từ năm 1941, người chỉ đạo trực tiếp cao trào kháng Nhật cứu nước với bản chỉ thị nổi tiếng “Nhật — Pháp bắn nhau và hành động của chúng ta” (12/03/1945).",
+      "quote": null
+    }
+  ],
   "timeline": [
-    { "date": "09/03/1945", "label": "Nhật đảo chính Pháp" },
-    { "date": "13/08/1945", "label": "Lệnh Tổng khởi nghĩa được ban bố" },
+    { "date": "09/03/1945", "label": "Nhật đảo chính Pháp trên toàn Đông Dương" },
+    { "date": "12/03/1945", "label": "Chỉ thị “Nhật — Pháp bắn nhau và hành động của chúng ta”" },
+    { "date": "13/08/1945", "label": "Lệnh Tổng khởi nghĩa được ban bố (Quân lệnh số 1)" },
+    { "date": "16/08/1945", "label": "Đại hội Quốc dân Tân Trào" },
     { "date": "19/08/1945", "label": "Khởi nghĩa thắng lợi ở Hà Nội" },
-    { "date": "30/08/1945", "label": "Vua Bảo Đại thoái vị" },
-    { "date": "02/09/1945", "label": "Tuyên ngôn Độc lập tại Ba Đình" }
+    { "date": "23/08/1945", "label": "Khởi nghĩa thắng lợi ở Huế" },
+    { "date": "25/08/1945", "label": "Khởi nghĩa thắng lợi ở Sài Gòn" },
+    { "date": "30/08/1945", "label": "Vua Bảo Đại thoái vị tại Ngọ Môn, Huế" },
+    { "date": "02/09/1945", "label": "Tuyên ngôn Độc lập tại Quảng trường Ba Đình" }
   ],
   "videos": [],
-  "funFacts": [],
-  "sources": ["Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam"]
+  "funFacts": [
+    {
+      "question": "“Tôi nói đồng bào nghe rõ không?”",
+      "answer": "Giữa lúc đọc Tuyên ngôn Độc lập, Chủ tịch Hồ Chí Minh dừng lại hỏi: “Tôi nói đồng bào nghe rõ không?” — câu hỏi giản dị khiến hàng chục vạn người đồng thanh đáp “Có!”, xóa nhòa khoảng cách giữa lãnh tụ và nhân dân."
+    },
+    {
+      "question": "Tổng khởi nghĩa diễn ra trong bao lâu?",
+      "answer": "Chỉ trong khoảng 2 tuần (từ 14/08 đến 28/08/1945), Tổng khởi nghĩa đã thắng lợi trên phạm vi cả nước — một cuộc cách mạng giành chính quyền nhanh và ít đổ máu hiếm có trong lịch sử."
+    },
+    {
+      "question": "Bản Tuyên ngôn Độc lập mở đầu bằng gì?",
+      "answer": "Bản Tuyên ngôn mở đầu bằng trích dẫn Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791) — khẳng định quyền độc lập của Việt Nam bằng chính những giá trị mà phương Tây thừa nhận."
+    }
+  ],
+  "sources": [
+    "Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam",
+    "Hồ Chí Minh toàn tập, NXB Chính trị quốc gia"
+  ]
 }
