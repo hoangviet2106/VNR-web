@@ -55,11 +55,13 @@ npm run build
 npm run lint
 ```
 
-## Bổ sung media (việc còn lại)
+## Media
 
-Code và nội dung chữ đã hoàn thiện. Hai thứ cần bổ sung thủ công:
+Hình ảnh tư liệu đã được lấy từ **Wikimedia Commons** (đã kiểm tra giấy phép từng ảnh — xem [public/images/CREDITS.md](public/images/CREDITS.md)): 9 chân dung nhân vật + các ảnh sự kiện kinh điển (mít tinh Nhà hát Lớn 19/8/1945, cờ chiến thắng trên nóc hầm Đờ Cátơri, Hội nghị Giơnevơ, tem phiếu bao cấp...).
 
-1. **Hình ảnh tư liệu** — đặt vào `public/images/<năm>/` và `public/images/figures/` theo đúng đường dẫn đã khai báo trong các file `src/data/eras/*.json`. Khi chưa có ảnh, giao diện tự hiển thị ô placeholder theo màu chủ đề (không vỡ layout). Ưu tiên ảnh public domain / Wikimedia Commons, nén WebP.
+Còn thiếu (giao diện tự hiển thị placeholder theo màu chủ đề, không vỡ layout):
+
+1. **Ảnh chưa có trên Commons**: chân dung Văn Tiến Dũng, Tô Vĩnh Diện; ảnh sự kiện của era 1930 và một số sự kiện khác — có thể tự bổ sung vào `public/images/` theo đúng tên file trong `src/data/eras/*.json`, nén WebP.
 2. **Video YouTube** — thêm vào mảng `videos` trong từng file era JSON: `{ "youtubeId": "...", "title": "..." }`. Chọn video tư liệu cho phép nhúng.
 
 ## Giấy phép
