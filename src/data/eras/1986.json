@@ -77,7 +77,12 @@
     { "date": "Cuối 1988", "label": "Xóa bỏ chế độ phân phối theo tem phiếu" },
     { "date": "1989", "label": "Việt Nam có dự trữ lương thực và trở lại xuất khẩu gạo" }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "youtubeId": "FZFsjsIKF_0",
+      "title": "Chuyện chưa kể về Đại hội VI (1986) — bước ngoặt lịch sử thoát khỏi khủng hoảng"
+    }
+  ],
   "funFacts": [
     {
       "question": "Lạm phát trước Đổi Mới cao đến mức nào?",

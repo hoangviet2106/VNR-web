@@ -84,7 +84,16 @@
     { "date": "12/09/1930", "label": "Đỉnh cao Xô viết Nghệ — Tĩnh (biểu tình Hưng Nguyên)" },
     { "date": "14 – 31/10/1930", "label": "Hội nghị TƯ lần thứ nhất — Trần Phú làm Tổng Bí thư" }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "youtubeId": "zn4QmmugV-U",
+      "title": "Hành trình tìm đường cứu nước của Nguyễn Ái Quốc và sự ra đời của Đảng Cộng sản Việt Nam"
+    },
+    {
+      "youtubeId": "suqvAQdOEJ0",
+      "title": "Hoạt động của Nguyễn Ái Quốc từ năm 1919 – 1930"
+    }
+  ],
   "funFacts": [
     {
       "question": "Vì sao lấy ngày 3/2 làm ngày thành lập Đảng?",

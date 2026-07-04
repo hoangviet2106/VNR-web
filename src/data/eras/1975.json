@@ -95,7 +95,16 @@
     { "date": "30/04/1975", "label": "11h30: cờ chiến thắng trên Dinh Độc Lập — Sài Gòn giải phóng" },
     { "date": "02/05/1975", "label": "Hoàn thành giải phóng đồng bằng sông Cửu Long và quần đảo Trường Sa" }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "youtubeId": "injdXI30g2M",
+      "title": "Chiến dịch Hồ Chí Minh — Giải phóng miền Nam, thống nhất đất nước | Phim tài liệu"
+    },
+    {
+      "youtubeId": "TnQYFiXX1Zg",
+      "title": "Chiến dịch Hồ Chí Minh trong 4 phút | VTV24"
+    }
+  ],
   "funFacts": [
     {
       "question": "\"Đánh cho Mỹ cút, đánh cho ngụy nhào\" xuất hiện từ đâu?",

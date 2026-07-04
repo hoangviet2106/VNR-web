@@ -100,7 +100,16 @@
     { "date": "21/07/1954", "label": "Ký Hiệp định Giơnevơ đình chỉ chiến sự ở Việt Nam" },
     { "date": "10/10/1954", "label": "Giải phóng Thủ đô Hà Nội" }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "youtubeId": "jy7Z3oYOp7w",
+      "title": "Chiến thắng Điện Biên Phủ 1954 — 56 ngày đêm chấn động địa cầu | Phim tài liệu"
+    },
+    {
+      "youtubeId": "5ODYUerrQ88",
+      "title": "VTV đặc biệt: Điện Biên Phủ — Nhìn từ nước Pháp"
+    }
+  ],
   "funFacts": [
     {
       "question": "Bác Hồ căn dặn gì về chiến dịch này?",

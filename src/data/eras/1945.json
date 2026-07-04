@@ -101,7 +101,16 @@
     { "date": "30/08/1945", "label": "Bảo Đại thoái vị, giao nộp ấn kiếm tại Ngọ Môn" },
     { "date": "02/09/1945", "label": "Lễ độc lập tại Quảng trường Ba Đình" }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "youtubeId": "YBuQNS6Qejw",
+      "title": "Toàn văn: Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập năm 1945 — giọng đọc chân thực của Bác"
+    },
+    {
+      "youtubeId": "xRKUB3fUTJM",
+      "title": "Toàn văn: Bác Hồ đọc Tuyên ngôn độc lập | VTV24"
+    }
+  ],
   "funFacts": [
     {
       "question": "Những tỉnh nào giành chính quyền sớm nhất?",
