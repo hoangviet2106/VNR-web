@@ -1,0 +1,26 @@
+{
+  "year": 1945,
+  "passScore": 70,
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple-choice",
+      "question": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập vào ngày nào?",
+      "options": ["19/08/1945", "02/09/1945", "23/09/1945", "06/01/1946"],
+      "correctIndex": 1,
+      "explanation": "Ngày 02/09/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+    },
+    {
+      "id": "q2",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện năm 1945 theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Nhật đảo chính Pháp" },
+        { "id": "b", "label": "Tổng khởi nghĩa thắng lợi ở Hà Nội" },
+        { "id": "c", "label": "Tuyên ngôn Độc lập" }
+      ],
+      "correctOrder": ["a", "b", "c"],
+      "explanation": "Trình tự đúng: Nhật đảo chính Pháp (09/03) → Khởi nghĩa ở Hà Nội (19/08) → Tuyên ngôn Độc lập (02/09)."
+    }
+  ]
+}

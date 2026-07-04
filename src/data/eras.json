@@ -1,0 +1,49 @@
+{
+  "eras": [
+    {
+      "year": 1930,
+      "slug": "1930",
+      "title": "Thành lập Đảng Cộng sản Việt Nam",
+      "subtitle": "Bước ngoặt của cách mạng Việt Nam",
+      "themeColor": "#e63946",
+      "thumbnail": "/images/1930/thumb.webp",
+      "order": 1
+    },
+    {
+      "year": 1945,
+      "slug": "1945",
+      "title": "Cách mạng Tháng Tám & Quốc khánh",
+      "subtitle": "Nước Việt Nam Dân chủ Cộng hòa ra đời",
+      "themeColor": "#f4a261",
+      "thumbnail": "/images/1945/thumb.webp",
+      "order": 2
+    },
+    {
+      "year": 1954,
+      "slug": "1954",
+      "title": "Chiến thắng Điện Biên Phủ",
+      "subtitle": "Lừng lẫy năm châu, chấn động địa cầu",
+      "themeColor": "#2a9d8f",
+      "thumbnail": "/images/1954/thumb.webp",
+      "order": 3
+    },
+    {
+      "year": 1975,
+      "slug": "1975",
+      "title": "Giải phóng miền Nam, thống nhất đất nước",
+      "subtitle": "Non sông liền một dải",
+      "themeColor": "#e76f51",
+      "thumbnail": "/images/1975/thumb.webp",
+      "order": 4
+    },
+    {
+      "year": 1986,
+      "slug": "1986",
+      "title": "Công cuộc Đổi Mới",
+      "subtitle": "Mở cửa và hội nhập",
+      "themeColor": "#4895ef",
+      "thumbnail": "/images/1986/thumb.webp",
+      "order": 5
+    }
+  ]
+}

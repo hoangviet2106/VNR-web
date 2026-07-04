@@ -1,0 +1,52 @@
+{
+  "year": 1945,
+  "title": "Cách mạng Tháng Tám & Quốc khánh 2/9",
+  "heroImage": "/images/1945/hero.webp",
+  "intro": "Mùa thu năm 1945, cả dân tộc Việt Nam vùng lên giành lại độc lập sau hơn 80 năm dưới ách thực dân.",
+  "context": {
+    "heading": "Bối cảnh lịch sử",
+    "paragraphs": [
+      "Đầu năm 1945, Chiến tranh thế giới thứ hai bước vào giai đoạn kết thúc. Ngày 09/03/1945, Nhật đảo chính Pháp trên toàn Đông Dương, tạo ra khủng hoảng chính trị sâu sắc và thời cơ ngàn năm có một cho cách mạng Việt Nam.",
+      "Giữa tháng 8/1945, khi phát xít Nhật đầu hàng Đồng minh, Đảng và Mặt trận Việt Minh đã phát động Tổng khởi nghĩa giành chính quyền trong cả nước."
+    ],
+    "image": "/images/1945/context.webp",
+    "imageCaption": "Quần chúng nhân dân trong những ngày Tổng khởi nghĩa Tháng Tám 1945"
+  },
+  "events": [
+    {
+      "id": "ev-1945-01",
+      "date": "13–15/08/1945",
+      "title": "Hội nghị toàn quốc của Đảng tại Tân Trào",
+      "description": "Quyết định phát động Tổng khởi nghĩa giành chính quyền trong cả nước trước khi quân Đồng minh vào Đông Dương.",
+      "image": "/images/1945/ev-01.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1945-02",
+      "date": "19/08/1945",
+      "title": "Tổng khởi nghĩa thắng lợi ở Hà Nội",
+      "description": "Hàng chục vạn quần chúng chiếm Phủ Khâm sai, Trại Bảo an binh — chính quyền về tay nhân dân tại thủ đô.",
+      "image": "/images/1945/ev-02.webp",
+      "highlight": true
+    },
+    {
+      "id": "ev-1945-03",
+      "date": "02/09/1945",
+      "title": "Tuyên ngôn Độc lập",
+      "description": "Tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+      "image": "/images/1945/ev-03.webp",
+      "highlight": true
+    }
+  ],
+  "figures": [],
+  "timeline": [
+    { "date": "09/03/1945", "label": "Nhật đảo chính Pháp" },
+    { "date": "13/08/1945", "label": "Lệnh Tổng khởi nghĩa được ban bố" },
+    { "date": "19/08/1945", "label": "Khởi nghĩa thắng lợi ở Hà Nội" },
+    { "date": "30/08/1945", "label": "Vua Bảo Đại thoái vị" },
+    { "date": "02/09/1945", "label": "Tuyên ngôn Độc lập tại Ba Đình" }
+  ],
+  "videos": [],
+  "funFacts": [],
+  "sources": ["Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam"]
+}
