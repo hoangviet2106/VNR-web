@@ -1,6 +1,6 @@
-# ⏳ Cỗ Máy Thời Gian — Time Machine
+# ⏳ Ngược Dòng Trăm Năm
 
-> Website học lịch sử Việt Nam theo phong cách khoa học viễn tưởng (Sci-Fi), cho phép người dùng "du hành" đến các giai đoạn lịch sử quan trọng của dân tộc.
+> Website học lịch sử Việt Nam theo phong cách khoa học viễn tưởng (Sci-Fi), cho phép người dùng "du hành" ngược dòng gần một thế kỷ (1930 – 1986) đến các giai đoạn lịch sử quan trọng của dân tộc.
 
 ## Giới thiệu nhanh
 

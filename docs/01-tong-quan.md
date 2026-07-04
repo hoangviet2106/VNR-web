@@ -2,7 +2,7 @@
 
 ## 1. Tên sản phẩm
 
-**Cỗ Máy Thời Gian (Time Machine)** — Website học lịch sử Việt Nam theo phong cách khoa học viễn tưởng.
+**Ngược Dòng Trăm Năm** — Website học lịch sử Việt Nam theo phong cách khoa học viễn tưởng. (Tên cũ trong quá trình phát triển: Cỗ Máy Thời Gian / Time Machine.)
 
 ## 2. Ý tưởng
 

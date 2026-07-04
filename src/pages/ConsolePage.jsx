@@ -49,7 +49,7 @@ export default function ConsolePage() {
           animate={{ opacity: 1, y: 0 }}
           className="font-display text-3xl font-bold tracking-widest text-glow drop-shadow-[0_0_12px_rgba(34,211,238,0.6)] sm:text-5xl md:text-7xl"
         >
-          <GlitchText text="CỖ MÁY THỜI GIAN" />
+          <GlitchText text="NGƯỢC DÒNG TRĂM NĂM" />
         </motion.h1>
         <p className="mt-4 font-mono text-sm text-slate-400 md:text-base">
           » Chọn điểm đến trong dòng thời gian «
