@@ -6,7 +6,7 @@ import { ROUTES } from '../utils/constants.js';
 import { useAudio } from '../context/AudioContext.jsx';
 import { useProgress } from '../context/ProgressContext.jsx';
 import { usePageTitle } from '../hooks/usePageTitle.js';
-import ParticleBackground from '../components/console/ParticleBackground.jsx';
+import GalaxyBackground from '../components/console/GalaxyBackground.jsx';
 import EraCard from '../components/console/EraCard.jsx';
 import SoundToggle from '../components/common/SoundToggle.jsx';
 import GlitchText from '../components/common/GlitchText.jsx';
@@ -32,7 +32,7 @@ export default function ConsolePage() {
 
   return (
     <main className="scanlines relative flex min-h-screen flex-col items-center justify-center gap-8 overflow-hidden px-4 pb-24 pt-16 md:gap-10 md:pb-12">
-      <ParticleBackground />
+      <GalaxyBackground />
 
       {/* Thanh HUD trên */}
       <header className="absolute left-0 top-0 flex w-full items-center justify-between px-4 py-3 font-mono text-xs text-glow-dim md:px-6 md:py-4">
