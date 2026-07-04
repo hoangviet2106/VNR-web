@@ -9,7 +9,7 @@ export default function FigureCard({ figure, themeColor }) {
     <button
       onClick={() => setFlipped((f) => !f)}
       aria-label={`${figure.name} — nhấn để ${flipped ? 'xem chân dung' : 'đọc tiểu sử'}`}
-      className="h-72 w-full [perspective:1000px]"
+      className="h-80 w-full [perspective:1000px]"
     >
       <div
         className="relative h-full w-full transition-transform duration-500 [transform-style:preserve-3d]"
@@ -24,7 +24,8 @@ export default function FigureCard({ figure, themeColor }) {
             src={figure.portrait}
             alt={`Chân dung ${figure.name}`}
             themeColor={themeColor}
-            className="h-48 w-full"
+            fit="contain"
+            className="h-56 w-full"
           />
           <div className="p-3 text-left">
             <h4 className="font-semibold text-slate-100">{figure.name}</h4>

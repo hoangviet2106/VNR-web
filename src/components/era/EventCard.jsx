@@ -12,7 +12,8 @@ export default function EventCard({ event, themeColor }) {
         src={event.image}
         alt={event.title}
         themeColor={themeColor}
-        className={`w-full ${event.highlight ? 'h-44' : 'h-32'}`}
+        fit="contain"
+        className={`w-full ${event.highlight ? 'aspect-[16/9]' : 'aspect-[3/2]'}`}
       />
       <div className="p-4">
         <span className="font-mono text-xs" style={{ color: themeColor }}>

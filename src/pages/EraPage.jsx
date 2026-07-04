@@ -77,7 +77,8 @@ export default function EraPage() {
                     src={era.context.image}
                     alt={era.context.imageCaption || 'Ảnh tư liệu bối cảnh'}
                     themeColor={color}
-                    className="h-64 w-full rounded-lg md:h-72"
+                    fit="contain"
+                    className="aspect-[4/3] w-full rounded-lg"
                   />
                   {era.context.imageCaption && (
                     <figcaption className="mt-2 text-center text-xs text-slate-500">

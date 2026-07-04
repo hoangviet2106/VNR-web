@@ -10,7 +10,8 @@ export default function GuessFigureQuestion({ question, onAnswered, themeColor }
           src={question.image}
           alt="Ảnh nhân vật cần đoán"
           themeColor={themeColor}
-          className="h-56 w-44 rounded-lg"
+          fit="contain"
+          className="h-72 w-60 rounded-lg"
         />
         {question.hint && (
           <p className="font-mono text-xs text-slate-500">Gợi ý: {question.hint}</p>
