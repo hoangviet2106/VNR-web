@@ -5,66 +5,80 @@
     {
       "id": "q1",
       "type": "multiple-choice",
-      "question": "Chiến dịch Điện Biên Phủ toàn thắng vào ngày nào?",
-      "options": ["13/03/1954", "01/05/1954", "07/05/1954", "21/07/1954"],
-      "correctIndex": 2,
-      "explanation": "Chiều 07/05/1954, quân ta đánh chiếm sở chỉ huy, bắt sống tướng De Castries — chiến dịch toàn thắng sau 56 ngày đêm."
+      "question": "Phương châm kháng chiến của quân đội ta trong chiến dịch Điện Biên Phủ là:",
+      "options": ["Đánh chắc, tiến chắc", "Thần tốc, bất ngờ", "Táo bạo, thần tốc", "Táo bạo, chắc thắng"],
+      "correctIndex": 0,
+      "explanation": "Phương châm của chiến dịch là \"đánh chắc, tiến chắc\", \"đánh chắc thắng\". (Câu 150, bộ 270 câu; Giáo trình tr.171)"
     },
     {
       "id": "q2",
       "type": "multiple-choice",
-      "question": "Phương châm tác chiến cuối cùng của ta trong chiến dịch Điện Biên Phủ là gì?",
-      "options": [
-        "Đánh nhanh, thắng nhanh",
-        "Đánh chắc, tiến chắc",
-        "Thần tốc, táo bạo",
-        "Vườn không nhà trống"
-      ],
+      "question": "Bản Hiệp định đình chỉ chiến sự ở Việt Nam (Hiệp định Giơnevơ) được các bên đồng ý ký kết vào thời gian nào?",
+      "options": ["27/1/1954", "21/7/1954", "21/1/1954", "27/7/1954"],
       "correctIndex": 1,
-      "explanation": "Đại tướng Võ Nguyên Giáp quyết định chuyển từ “đánh nhanh, thắng nhanh” sang “đánh chắc, tiến chắc” — quyết định mà ông gọi là khó khăn nhất trong đời cầm quân."
+      "explanation": "Do so sánh lực lượng không thuận lợi cho cách mạng ba nước Đông Dương, ta đồng ý ký Hiệp định đình chỉ chiến sự ở Việt Nam ngày 21/7/1954. (Câu 153, bộ 270 câu; Giáo trình tr.174)"
     },
     {
       "id": "q3",
-      "type": "guess-figure",
-      "question": "Người anh hùng trong ảnh — đã lấy thân mình lấp lỗ châu mai trong trận Him Lam — là ai?",
-      "image": "/images/figures/phan-dinh-giot.webp",
-      "hint": "Hy sinh ngay trong trận mở màn chiến dịch, ngày 13/03/1954.",
-      "options": ["Phan Đình Giót", "Tô Vĩnh Diện", "Bế Văn Đàn", "La Văn Cầu"],
+      "type": "multiple-choice",
+      "question": "Trận Điện Biên Phủ thắng lợi mang ý nghĩa rất lớn đối với cách mạng thế giới vì:",
+      "options": [
+        "Báo hiệu sự thắng lợi của nhân dân các dân tộc bị áp bức, sự sụp đổ của chủ nghĩa thực dân",
+        "Báo hiệu sự sụp đổ không thể tránh khỏi của chủ nghĩa tư bản",
+        "Làm sụp đổ hệ thống phát xít ở các nước châu Âu",
+        "Giúp các quốc gia tư bản ở Châu Á — Âu — Mỹ Latinh tự giải phóng cho mình"
+      ],
       "correctIndex": 0,
-      "explanation": "Anh hùng Phan Đình Giót lấy thân mình lấp lỗ châu mai trong trận đánh cứ điểm Him Lam mở màn chiến dịch. Tô Vĩnh Diện là người lấy thân chèn pháo, Bế Văn Đàn lấy thân làm giá súng."
+      "explanation": "Thắng lợi Điện Biên Phủ \"đi vào lịch sử thế giới như một chiến công hiển hách, báo hiệu sự thắng lợi của nhân dân các dân tộc bị áp bức, sự sụp đổ của chủ nghĩa thực dân\". (Câu 151, bộ 270 câu; Giáo trình tr.172)"
     },
     {
       "id": "q4",
-      "type": "ordering",
-      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
-      "items": [
-        { "id": "a", "label": "Pháp nhảy dù chiếm Điện Biên Phủ" },
-        { "id": "b", "label": "Mở màn chiến dịch — đánh Him Lam" },
-        { "id": "c", "label": "Bắt sống tướng De Castries" },
-        { "id": "d", "label": "Ký Hiệp định Genève" }
+      "type": "multiple-choice",
+      "question": "Một trong những ý nghĩa quan trọng của Hiệp định Giơnevơ (21/7/1954) đối với cách mạng Việt Nam là:",
+      "options": [
+        "Đánh dấu cuộc kháng chiến chống Pháp kết thúc thắng lợi, miền Bắc được hoàn toàn giải phóng",
+        "Đánh dấu cuộc kháng chiến chống Pháp kết thúc thắng lợi, miền Nam được hoàn toàn giải phóng",
+        "Đánh dấu cuộc kháng chiến chống Mỹ kết thúc thắng lợi, nước ta hoàn toàn được giải phóng",
+        "Đánh dấu cuộc kháng chiến chống Pháp bước sang giai đoạn mới"
       ],
-      "correctOrder": ["a", "b", "c", "d"],
-      "explanation": "Trình tự: Pháp chiếm Điện Biên Phủ (20/11/1953) → mở màn chiến dịch (13/03/1954) → toàn thắng (07/05/1954) → Hiệp định Genève (21/07/1954)."
+      "correctIndex": 0,
+      "explanation": "Hiệp định Giơnevơ đánh dấu kháng chiến chống Pháp kết thúc thắng lợi, miền Bắc hoàn toàn giải phóng, trở thành hậu phương lớn cho cách mạng miền Nam. (Câu 152, bộ 270 câu; Giáo trình tr.175)"
     },
     {
       "id": "q5",
-      "type": "matching",
-      "question": "Ghép sự kiện với mốc thời gian tương ứng:",
-      "pairs": [
-        { "left": "Mở màn đánh Him Lam", "right": "13/03/1954" },
-        { "left": "Toàn thắng Điện Biên Phủ", "right": "07/05/1954" },
-        { "left": "Ký Hiệp định Genève", "right": "21/07/1954" },
-        { "left": "Giải phóng Thủ đô Hà Nội", "right": "10/10/1954" }
-      ],
-      "explanation": "Chuỗi sự kiện năm 1954: mở màn 13/03 → toàn thắng 07/05 → Hiệp định Genève 21/07 → bộ đội ta tiếp quản, giải phóng Thủ đô 10/10."
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — người được Bộ Chính trị giao trực tiếp làm Tư lệnh kiêm Bí thư Đảng ủy Chiến dịch Điện Biên Phủ — là ai?",
+      "image": "/images/figures/vo-nguyen-giap.webp",
+      "hint": "Bộ trưởng Bộ Quốc phòng, Tổng Tư lệnh quân đội; người quyết định đổi phương châm tác chiến của chiến dịch.",
+      "options": ["Võ Nguyên Giáp", "Văn Tiến Dũng", "Hoàng Văn Thái", "Phạm Văn Đồng"],
+      "correctIndex": 0,
+      "explanation": "Cuộc họp Bộ Chính trị ngày 6/12/1953 quyết định mở Chiến dịch Điện Biên Phủ và giao Đại tướng Võ Nguyên Giáp trực tiếp làm Tư lệnh kiêm Bí thư Đảng ủy chiến dịch. (Giáo trình tr.170)"
     },
     {
       "id": "q6",
-      "type": "multiple-choice",
-      "question": "Hiệp định Genève 1954 quy định lấy vĩ tuyến nào làm giới tuyến quân sự tạm thời?",
-      "options": ["Vĩ tuyến 16", "Vĩ tuyến 17", "Vĩ tuyến 18", "Vĩ tuyến 20"],
-      "correctIndex": 1,
-      "explanation": "Hiệp định Genève lấy vĩ tuyến 17 (sông Bến Hải, Quảng Trị) làm giới tuyến quân sự tạm thời — dự kiến tổng tuyển cử thống nhất đất nước vào tháng 7/1956."
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Pháp cử tướng Nava sang, đề ra Kế hoạch Nava" },
+        { "id": "b", "label": "Bộ Chính trị quyết định mở Chiến dịch Điện Biên Phủ" },
+        { "id": "c", "label": "Quân ta nổ súng mở màn chiến dịch" },
+        { "id": "d", "label": "Bắt sống tướng Đờ Cátơri, chiến dịch toàn thắng" },
+        { "id": "e", "label": "Ký Hiệp định Giơnevơ" }
+      ],
+      "correctOrder": ["a", "b", "c", "d", "e"],
+      "explanation": "Trình tự: Kế hoạch Nava (5–7/1953) → Bộ Chính trị mở chiến dịch (6/12/1953) → mở màn (13/3/1954) → toàn thắng (17h30 ngày 7/5/1954) → Hiệp định Giơnevơ (21/7/1954)."
+    },
+    {
+      "id": "q7",
+      "type": "matching",
+      "question": "Ghép sự kiện với mốc thời gian tương ứng:",
+      "pairs": [
+        { "left": "Mở màn chiến dịch Điện Biên Phủ", "right": "13/03/1954" },
+        { "left": "Bắt sống tướng Đờ Cátơri", "right": "07/05/1954" },
+        { "left": "Hội nghị Giơnevơ khai mạc", "right": "08/05/1954" },
+        { "left": "Ký Hiệp định Giơnevơ", "right": "21/07/1954" }
+      ],
+      "explanation": "Chuỗi sự kiện 1954: mở màn 13/3 → toàn thắng 7/5 → chỉ một ngày sau, 8/5, Hội nghị Giơnevơ về Đông Dương khai mạc → 21/7 ký Hiệp định. (Giáo trình tr.171–174)"
     }
   ]
 }

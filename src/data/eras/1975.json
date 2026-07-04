@@ -2,13 +2,13 @@
   "year": 1975,
   "title": "Giải phóng miền Nam, thống nhất đất nước",
   "heroImage": "/images/1975/hero.webp",
-  "intro": "Mùa xuân năm 1975, cuộc Tổng tiến công thần tốc 55 ngày đêm đã đưa non sông về liền một dải.",
+  "intro": "Mùa xuân năm 1975 — cuộc Tổng tiến công và nổi dậy toàn thắng, kết thúc 21 năm chống Mỹ, 30 năm chiến tranh cách mạng, đưa non sông về liền một dải.",
   "context": {
     "heading": "Bối cảnh lịch sử",
     "paragraphs": [
-      "Sau Hiệp định Paris (27/01/1973), quân Mỹ rút khỏi miền Nam nhưng chính quyền Sài Gòn vẫn tiếp tục chiến tranh. So sánh lực lượng trên chiến trường thay đổi ngày càng có lợi cho cách mạng.",
-      "Chiến thắng Phước Long (06/01/1975) cho thấy khả năng suy sụp của quân đội Sài Gòn và việc Mỹ khó quay lại can thiệp. Bộ Chính trị hạ quyết tâm giải phóng hoàn toàn miền Nam, và khi thời cơ đến thì giải phóng ngay trong năm 1975.",
-      "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 diễn ra qua ba chiến dịch lớn nối tiếp nhau: Tây Nguyên, Huế — Đà Nẵng và chiến dịch Hồ Chí Minh lịch sử."
+      "Sau Hiệp định Paris (01/1973), quân Mỹ rút khỏi miền Nam nhưng chính quyền Nguyễn Văn Thiệu ngang ngược phá hoại Hiệp định, liên tiếp mở các cuộc hành quân lấn chiếm vùng giải phóng. Tháng 7/1973, Hội nghị Trung ương 21 nêu rõ: con đường của cách mạng miền Nam là con đường bạo lực cách mạng, phải nắm vững thời cơ, giữ vững đường lối chiến lược tiến công.",
+      "Bộ Chính trị họp đợt 1 (30/9 – 8/10/1974) và đợt 2 (8/12/1974 – 7/1/1975) đề ra quyết tâm chiến lược giải phóng miền Nam trong hai năm 1975–1976, đồng thời dự kiến: nếu thời cơ đến vào đầu hoặc cuối năm 1975 thì lập tức giải phóng miền Nam ngay trong năm 1975.",
+      "Chiến thắng Phước Long (06/01/1975) — tỉnh lỵ cách Sài Gòn hơn 100 km mà địch không thể chiếm lại, quân Mỹ không thể trở lại — có ý nghĩa như một đòn thăm dò chiến lược, đưa Bộ Chính trị tới nhận định: \"Chưa bao giờ ta có điều kiện đầy đủ về quân sự, chính trị, có thời cơ chiến lược to lớn như hiện nay\"."
     ],
     "image": "/images/1975/context.webp",
     "imageCaption": "Quân giải phóng tiến vào Sài Gòn, ngày 30/04/1975"
@@ -17,89 +17,101 @@
     {
       "id": "ev-1975-01",
       "date": "10/03/1975",
-      "title": "Đòn điểm huyệt Buôn Ma Thuột",
-      "description": "Chiến dịch Tây Nguyên mở màn bằng trận đánh bất ngờ vào Buôn Ma Thuột. Địch rút chạy khỏi Tây Nguyên trong hỗn loạn — sai lầm chiến lược khiến toàn bộ hệ thống phòng thủ sụp đổ dây chuyền.",
+      "title": "Chiến dịch Tây Nguyên — đòn điểm huyệt Buôn Ma Thuột",
+      "description": "Cuộc Tổng tiến công và nổi dậy mùa xuân 1975 mở đầu bằng Chiến dịch Tây Nguyên với trận tiến công thị xã Buôn Ma Thuột giành thắng lợi. Toàn bộ Quân đoàn II địch và hệ thống chính quyền Việt Nam Cộng hòa ở Quân khu II bị tiêu diệt và tan rã.",
       "image": "/images/1975/ev-01.webp",
       "highlight": true
     },
     {
       "id": "ev-1975-02",
-      "date": "26 – 29/03/1975",
-      "title": "Giải phóng Huế và Đà Nẵng",
-      "description": "Chiến dịch Huế — Đà Nẵng diễn ra thần tốc: giải phóng Huế ngày 26/03, tiếp đó là Đà Nẵng — căn cứ liên hợp quân sự lớn nhất miền Trung — ngày 29/03.",
+      "date": "18/03/1975",
+      "title": "Quyết định giải phóng miền Nam ngay trong năm 1975",
+      "description": "Trước thắng lợi to lớn ở Tây Nguyên, cuộc họp Bộ Chính trị ngày 18/03/1975 quyết định: giải phóng miền Nam trong năm 1975. Đến ngày 25/03, Bộ Chính trị bổ sung quyết tâm chiến lược: giải phóng miền Nam trước mùa mưa.",
       "image": "/images/1975/ev-02.webp",
       "highlight": false
     },
     {
       "id": "ev-1975-03",
-      "date": "14/04/1975",
-      "title": "Chiến dịch giải phóng Sài Gòn mang tên Chủ tịch Hồ Chí Minh",
-      "description": "Bộ Chính trị quyết định chiến dịch giải phóng Sài Gòn — Gia Định mang tên Chiến dịch Hồ Chí Minh. Năm cánh quân với khí thế “thần tốc, táo bạo” áp sát Sài Gòn.",
+      "date": "26 – 29/03/1975",
+      "title": "Giải phóng Huế và Đà Nẵng",
+      "description": "Quân ta nhanh chóng phát triển cuộc tiến công xuống các tỉnh ven biển miền Trung: ngày 26/03 giải phóng thành phố Huế, ngày 29/03 giải phóng Đà Nẵng — căn cứ quân sự liên hợp lớn nhất của địch ở miền Trung.",
       "image": "/images/1975/ev-03.webp",
       "highlight": false
     },
     {
       "id": "ev-1975-04",
-      "date": "30/04/1975",
-      "title": "Xe tăng tiến vào Dinh Độc Lập — miền Nam hoàn toàn giải phóng",
-      "description": "10h45, xe tăng 390 húc đổ cổng chính Dinh Độc Lập; 11h30, lá cờ cách mạng tung bay trên nóc Dinh, Tổng thống Dương Văn Minh tuyên bố đầu hàng vô điều kiện. Chiến dịch Hồ Chí Minh toàn thắng.",
+      "date": "26/04/1975",
+      "title": "Chiến dịch Hồ Chí Minh bắt đầu",
+      "description": "Chiến dịch giải phóng Sài Gòn — Gia Định mang tên Chiến dịch Hồ Chí Minh mở màn. Bộ Tư lệnh chiến dịch: Đại tướng Văn Tiến Dũng làm Tư lệnh, đồng chí Phạm Hùng làm Chính ủy, đồng chí Trần Văn Trà làm Phó Tư lệnh.",
       "image": "/images/1975/ev-04.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1975-05",
+      "date": "30/04/1975",
+      "title": "Cờ chiến thắng trên Dinh Độc Lập",
+      "description": "Sau 4 ngày đêm tiến công dũng mãnh, vào 11 giờ 30 phút ngày 30/04/1975, lá cờ chiến thắng được cắm trên Dinh Độc Lập — Sài Gòn được giải phóng. Ngày 02/05, việc giải phóng đồng bằng sông Cửu Long và các đảo, quần đảo Trường Sa kết thúc thắng lợi.",
+      "image": "/images/1975/ev-05.webp",
       "highlight": true
     }
   ],
   "figures": [
     {
-      "id": "fig-le-duan",
-      "name": "Lê Duẩn",
-      "role": "Bí thư thứ nhất Ban Chấp hành Trung ương Đảng",
-      "portrait": "/images/figures/le-duan.webp",
-      "bio": "Người lãnh đạo cao nhất của Đảng trong kháng chiến chống Mỹ, chủ trì hoạch định quyết tâm chiến lược giải phóng miền Nam trong hai năm 1975–1976, và chớp thời cơ giải phóng ngay trong năm 1975.",
-      "quote": null
+      "id": "fig-vo-nguyen-giap",
+      "name": "Võ Nguyên Giáp",
+      "role": "Đại tướng, Tổng Tư lệnh",
+      "portrait": "/images/figures/vo-nguyen-giap.webp",
+      "bio": "Ngày 07/04/1975, ông ra mệnh lệnh lịch sử truyền đi khắp các mặt trận, thúc giục toàn quân chớp thời cơ chiến lược thần tốc tiến về Sài Gòn.",
+      "quote": "Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa, tranh thủ từng giờ, từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng."
     },
     {
       "id": "fig-van-tien-dung",
       "name": "Văn Tiến Dũng",
       "role": "Tư lệnh Chiến dịch Hồ Chí Minh",
       "portrait": "/images/figures/van-tien-dung.webp",
-      "bio": "Đại tướng, Tổng Tham mưu trưởng, trực tiếp vào chiến trường chỉ huy chiến dịch Tây Nguyên rồi làm Tư lệnh Chiến dịch Hồ Chí Minh giải phóng Sài Gòn.",
+      "bio": "Đại tướng, Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam, trực tiếp vào chiến trường chỉ đạo chiến dịch Tây Nguyên, sau đó làm Tư lệnh Bộ Tư lệnh Chiến dịch Hồ Chí Minh giải phóng Sài Gòn — Gia Định.",
       "quote": null
     },
     {
-      "id": "fig-bui-quang-than",
-      "name": "Bùi Quang Thận",
-      "role": "Người cắm cờ trên nóc Dinh Độc Lập",
-      "portrait": "/images/figures/bui-quang-than.webp",
-      "bio": "Đại đội trưởng xe tăng, trưởng xe 843. Trưa 30/04/1975, ông mang lá cờ giải phóng từ xe tăng của mình chạy lên và cắm trên nóc Dinh Độc Lập lúc 11h30.",
+      "id": "fig-pham-hung",
+      "name": "Phạm Hùng",
+      "role": "Chính ủy Chiến dịch Hồ Chí Minh",
+      "portrait": "/images/figures/pham-hung.webp",
+      "bio": "Bí thư Trung ương Cục miền Nam, làm Chính ủy Bộ Tư lệnh Chiến dịch Hồ Chí Minh — cùng Tư lệnh Văn Tiến Dũng và Phó Tư lệnh Trần Văn Trà chỉ huy trận quyết chiến chiến lược cuối cùng.",
       "quote": null
     }
   ],
   "timeline": [
-    { "date": "06/01/1975", "label": "Chiến thắng Phước Long — “trận trinh sát chiến lược”" },
-    { "date": "10/03/1975", "label": "Đánh Buôn Ma Thuột, mở màn chiến dịch Tây Nguyên" },
+    { "date": "01/1973", "label": "Hiệp định Paris được ký kết, quân Mỹ rút khỏi miền Nam" },
+    { "date": "07/1973", "label": "Hội nghị Trung ương 21: con đường bạo lực cách mạng" },
+    { "date": "30/09/1974 – 07/01/1975", "label": "Bộ Chính trị họp, quyết tâm giải phóng miền Nam trong 2 năm 1975–1976" },
+    { "date": "06/01/1975", "label": "Giải phóng Phước Long — đòn thăm dò chiến lược" },
+    { "date": "10/03/1975", "label": "Tiến công Buôn Ma Thuột, mở màn Chiến dịch Tây Nguyên" },
+    { "date": "18/03/1975", "label": "Bộ Chính trị quyết định giải phóng miền Nam trong năm 1975" },
     { "date": "26/03/1975", "label": "Giải phóng Huế" },
     { "date": "29/03/1975", "label": "Giải phóng Đà Nẵng" },
-    { "date": "07/04/1975", "label": "Mệnh lệnh “Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa”" },
+    { "date": "07/04/1975", "label": "Mệnh lệnh \"Thần tốc, thần tốc hơn nữa...\"" },
     { "date": "26/04/1975", "label": "Chiến dịch Hồ Chí Minh mở màn" },
-    { "date": "30/04/1975", "label": "Giải phóng Sài Gòn — miền Nam hoàn toàn giải phóng" },
-    { "date": "25/04/1976", "label": "Tổng tuyển cử bầu Quốc hội của nước Việt Nam thống nhất" }
+    { "date": "30/04/1975", "label": "11h30: cờ chiến thắng trên Dinh Độc Lập — Sài Gòn giải phóng" },
+    { "date": "02/05/1975", "label": "Hoàn thành giải phóng đồng bằng sông Cửu Long và quần đảo Trường Sa" }
   ],
   "videos": [],
   "funFacts": [
     {
-      "question": "Bức điện nổi tiếng ngày 07/04/1975 viết gì?",
-      "answer": "Đại tướng Võ Nguyên Giáp gửi toàn mặt trận bức điện: “Thần tốc, thần tốc hơn nữa, táo bạo, táo bạo hơn nữa, tranh thủ từng giờ từng phút, xốc tới mặt trận, giải phóng miền Nam. Quyết chiến và toàn thắng!”"
+      "question": "\"Đánh cho Mỹ cút, đánh cho ngụy nhào\" xuất hiện từ đâu?",
+      "answer": "Trong Thư chúc mừng năm mới ngày 01/01/1969, Chủ tịch Hồ Chí Minh nêu quyết tâm và chủ trương chiến lược hai bước: \"Vì độc lập, vì tự do, đánh cho Mỹ cút, đánh cho ngụy nhào\" — Mỹ rút trước (1973), chính quyền Sài Gòn sụp đổ sau (1975)."
     },
     {
-      "question": "Bài hát nào ra đời ngay trong đêm tin chiến thắng?",
-      "answer": "Nhạc sĩ Phạm Tuyên viết “Như có Bác trong ngày đại thắng” chỉ trong khoảng hai giờ đêm 28/04/1975; bài hát được thu âm ngay và vang lên trên sóng phát thanh trưa 30/04, trở thành “khúc ca khải hoàn” của dân tộc."
+      "question": "\"Điện Biên Phủ trên không\" là gì?",
+      "answer": "Trong 12 ngày đêm cuối năm 1972 (18 – 30/12), quân và dân miền Bắc đánh trả cuộc tập kích chiến lược bằng máy bay B-52 của Mỹ vào Hà Nội, Hải Phòng: bắn rơi 84 máy bay, trong đó có 34 chiếc B-52, bắt 43 giặc lái — trận thắng buộc Mỹ trở lại bàn đàm phán ở Paris."
     },
     {
-      "question": "Xe tăng 843 hay 390 húc đổ cổng Dinh Độc Lập?",
-      "answer": "Xe tăng 843 lao vào trước nhưng bị kẹt ở cổng phụ; xe 390 tiến sau đã húc đổ cổng chính. Trưởng xe 843 Bùi Quang Thận là người cắm cờ trên nóc Dinh. Sự thật này được xác nhận nhờ bức ảnh của nữ phóng viên Pháp Françoise Demulder."
+      "question": "Chiến thắng 30/4 kết thúc bao nhiêu năm chiến đấu?",
+      "answer": "Theo giáo trình: thắng lợi vĩ đại mùa xuân 1975 kết thúc 21 năm chiến đấu chống đế quốc Mỹ xâm lược, 30 năm chiến tranh cách mạng, và 117 năm chống đế quốc xâm lược — giành lại nền độc lập, thống nhất, toàn vẹn lãnh thổ cho đất nước."
     }
   ],
   "sources": [
-    "Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam",
-    "Văn Tiến Dũng — Đại thắng mùa Xuân, NXB Quân đội nhân dân"
+    "Giáo trình Lịch sử Đảng Cộng sản Việt Nam (Bộ GD&ĐT, NXB Chính trị quốc gia Sự thật, 2021), tr.218–233",
+    "Văn kiện Đảng toàn tập, NXB Chính trị quốc gia"
   ]
 }

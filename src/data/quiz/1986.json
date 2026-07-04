@@ -5,66 +5,92 @@
     {
       "id": "q1",
       "type": "multiple-choice",
-      "question": "Đại hội nào của Đảng khởi xướng công cuộc Đổi Mới?",
-      "options": ["Đại hội IV", "Đại hội V", "Đại hội VI", "Đại hội VII"],
+      "question": "Đại hội VI của Đảng (12/1986) diễn ra trong bối cảnh lịch sử nào?",
+      "options": [
+        "Xu thế đối đầu chi phối các mối quan hệ quốc tế",
+        "Thế giới bắt đầu bước vào cục diện \"Chiến tranh lạnh\"",
+        "Việt Nam đang ở trong tình trạng khủng hoảng kinh tế — xã hội",
+        "Việt Nam đã thoát ra khỏi tình trạng khủng hoảng kinh tế — xã hội"
+      ],
       "correctIndex": 2,
-      "explanation": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (15 – 18/12/1986) đề ra đường lối Đổi Mới toàn diện đất nước."
+      "explanation": "Đại hội VI diễn ra khi Việt Nam bị bao vây, cấm vận và ở trong tình trạng khủng hoảng kinh tế — xã hội: hàng hóa khan hiếm, lạm phát hơn 774% năm 1986. (Câu 215, bộ 270 câu; Giáo trình tr.261)"
     },
     {
       "id": "q2",
-      "type": "guess-figure",
-      "question": "Nhân vật trong ảnh — Tổng Bí thư đầu tiên của thời kỳ Đổi Mới — là ai?",
-      "image": "/images/figures/nguyen-van-linh.webp",
-      "hint": "Tác giả loạt bài “Những việc cần làm ngay” ký tên N.V.L.",
-      "options": ["Nguyễn Văn Linh", "Trường Chinh", "Đỗ Mười", "Phạm Văn Đồng"],
-      "correctIndex": 0,
-      "explanation": "Đồng chí Nguyễn Văn Linh được Đại hội VI bầu làm Tổng Bí thư (1986–1991), nổi tiếng với loạt bài “Những việc cần làm ngay” ký tên N.V.L trên báo Nhân Dân."
+      "type": "multiple-choice",
+      "question": "Điền từ thích hợp vào chỗ trống: Đại hội VI của Đảng đã nhìn thẳng vào ……, đánh giá đúng ……, nói rõ ……",
+      "options": ["Hiện trạng", "Thực tế", "Tình hình", "Sự thật"],
+      "correctIndex": 3,
+      "explanation": "Đại hội VI nêu cao tinh thần \"nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật\" — nghiêm túc kiểm điểm những sai lầm, khuyết điểm thời kỳ 1975–1986. (Câu 216, bộ 270 câu)"
     },
     {
       "id": "q3",
       "type": "multiple-choice",
-      "question": "Tinh thần nổi bật của Đại hội VI được khái quát trong câu nào?",
+      "question": "Ba chương trình kinh tế lớn được Đại hội VI (12/1986) đề ra bao gồm:",
       "options": [
-        "Thần tốc, táo bạo, bất ngờ, chắc thắng",
-        "Nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật",
-        "Đánh chắc, tiến chắc",
-        "Tất cả cho tiền tuyến, tất cả để chiến thắng"
+        "Hàng lương thực — thực phẩm, hàng tiêu dùng và hàng nhập khẩu",
+        "Hàng lương thực — thực phẩm, hàng sản xuất và hàng nhập khẩu",
+        "Hàng lương thực — thực phẩm, hàng tiêu dùng và hàng xuất khẩu",
+        "Hàng lương thực — thực phẩm, hàng sản xuất và hàng xuất khẩu"
       ],
-      "correctIndex": 1,
-      "explanation": "Đại hội VI nêu cao tinh thần “nhìn thẳng vào sự thật, đánh giá đúng sự thật, nói rõ sự thật” — thẳng thắn thừa nhận sai lầm để đổi mới."
+      "correctIndex": 2,
+      "explanation": "Ba chương trình kinh tế lớn: lương thực — thực phẩm, hàng tiêu dùng và hàng xuất khẩu — được coi là sự cụ thể hóa nội dung công nghiệp hóa trong chặng đường đầu của thời kỳ quá độ. (Câu 218, bộ 270 câu; Giáo trình tr.262)"
     },
     {
       "id": "q4",
-      "type": "ordering",
-      "question": "Sắp xếp các dấu mốc của tiến trình Đổi Mới theo trình tự thời gian:",
-      "items": [
-        { "id": "a", "label": "Chỉ thị 100 — khoán sản phẩm trong nông nghiệp" },
-        { "id": "b", "label": "Đại hội VI khởi xướng Đổi Mới" },
-        { "id": "c", "label": "Luật Đầu tư nước ngoài đầu tiên" },
-        { "id": "d", "label": "Việt Nam trở lại xuất khẩu gạo" }
-      ],
-      "correctOrder": ["a", "b", "c", "d"],
-      "explanation": "Trình tự: Chỉ thị 100 (1981) → Đại hội VI (12/1986) → Luật Đầu tư nước ngoài (12/1987) → xuất khẩu 1,4 triệu tấn gạo (1989)."
+      "type": "multiple-choice",
+      "question": "Đại hội VI của Đảng (1986) đã rút ra bài học quý báu: trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng:",
+      "options": ["Lấy dân làm gốc", "Lấy nông làm chính", "Lấy nước làm đầu", "Lấy Đảng làm trọng"],
+      "correctIndex": 0,
+      "explanation": "Bài học thứ nhất trong bốn bài học của Đại hội VI: trong toàn bộ hoạt động của mình, Đảng phải quán triệt tư tưởng \"lấy dân làm gốc\". (Câu 220, bộ 270 câu; Giáo trình tr.262)"
     },
     {
       "id": "q5",
+      "type": "multiple-choice",
+      "question": "Hội nghị Trung ương 8 (6/1985) được coi là bước đột phá thứ hai trong quá trình tìm tòi, đổi mới kinh tế của Đảng vì Trung ương đã quyết định:",
+      "options": [
+        "Đổi mới đất nước một cách toàn diện trên tất cả các ngành và lĩnh vực",
+        "Xóa bỏ cơ chế tập trung quan liêu, bao cấp, chuyển sang cơ chế hạch toán kinh doanh",
+        "Đề ra mục tiêu đến năm 2020 nước ta cơ bản trở thành một nước công nghiệp",
+        "Chủ trương chuyển dùng tem phiếu sang dùng hoàn toàn tiền mặt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hội nghị Trung ương 8 (6/1985) chủ trương xóa bỏ cơ chế tập trung quan liêu, bao cấp — bước đột phá thứ hai trên con đường hình thành đường lối đổi mới. (Câu 211, bộ 270 câu; Giáo trình tr.260)"
+    },
+    {
+      "id": "q6",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — Tổng Bí thư được bầu tại Đại hội VI, người trực tiếp lèo lái công cuộc Đổi Mới — là ai?",
+      "image": "/images/figures/nguyen-van-linh.webp",
+      "hint": "Tác giả loạt bài \"Những việc cần làm ngay\" ký tên N.V.L trên báo Nhân Dân.",
+      "options": ["Nguyễn Văn Linh", "Trường Chinh", "Đỗ Mười", "Phạm Văn Đồng"],
+      "correctIndex": 0,
+      "explanation": "Đại hội VI bầu đồng chí Nguyễn Văn Linh làm Tổng Bí thư của Đảng (1986–1991). (Giáo trình tr.261)"
+    },
+    {
+      "id": "q7",
+      "type": "ordering",
+      "question": "Sắp xếp các dấu mốc của tiến trình Đổi Mới theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Bước đột phá đầu tiên về tư duy kinh tế" },
+        { "id": "b", "label": "Hội nghị TƯ 8: xóa bao cấp, chuyển sang hạch toán kinh doanh" },
+        { "id": "c", "label": "Đại hội VI khởi xướng đường lối Đổi Mới" },
+        { "id": "d", "label": "Nghị quyết 10 (\"Khoán 10\") về nông nghiệp" }
+      ],
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự: đột phá thứ nhất (8/1979) → Hội nghị TƯ 8 (6/1985) → Đại hội VI (15–18/12/1986) → Nghị quyết 10 của Bộ Chính trị (5/4/1988)."
+    },
+    {
+      "id": "q8",
       "type": "matching",
       "question": "Ôn tập cả hành trình: ghép sự kiện với năm diễn ra:",
       "pairs": [
         { "left": "Thành lập Đảng Cộng sản Việt Nam", "right": "1930" },
-        { "left": "Tuyên ngôn Độc lập", "right": "1945" },
+        { "left": "Cách mạng Tháng Tám thành công", "right": "1945" },
         { "left": "Chiến thắng Điện Biên Phủ", "right": "1954" },
         { "left": "Giải phóng miền Nam", "right": "1975" }
       ],
-      "explanation": "Bốn mốc son bạn đã du hành qua: 1930 thành lập Đảng → 1945 độc lập → 1954 Điện Biên Phủ → 1975 thống nhất — và 1986 mở ra thời kỳ Đổi Mới."
-    },
-    {
-      "id": "q6",
-      "type": "multiple-choice",
-      "question": "Chính sách nào giao ruộng đất ổn định lâu dài cho hộ nông dân, giúp Việt Nam nhanh chóng trở lại xuất khẩu gạo?",
-      "options": ["Chỉ thị 100", "Nghị quyết 10 (Khoán 10)", "Luật Đất đai 1993", "Hợp tác hóa nông nghiệp"],
-      "correctIndex": 1,
-      "explanation": "Nghị quyết 10 của Bộ Chính trị (04/1988), quen gọi là “Khoán 10”, giao ruộng đất cho hộ nông dân — chỉ một năm sau, Việt Nam xuất khẩu 1,4 triệu tấn gạo."
+      "explanation": "Bốn mốc son bạn đã du hành qua: 1930 thành lập Đảng → 1945 giành độc lập → 1954 Điện Biên Phủ → 1975 thống nhất — và 1986 mở ra thời kỳ Đổi Mới."
     }
   ]
 }

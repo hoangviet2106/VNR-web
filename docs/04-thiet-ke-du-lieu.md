@@ -110,7 +110,7 @@ File "mục lục" cho Console và điều hướng.
   ],
 
   "sources": [
-    "Sách giáo khoa Lịch sử 12, NXB Giáo dục",
+    "Giáo trình Lịch sử Đảng Cộng sản Việt Nam (Bộ GD&ĐT, NXB Chính trị quốc gia Sự thật, 2021)",
     "https://vi.wikipedia.org/wiki/..."
   ]
 }
@@ -202,7 +202,7 @@ Key: `time-machine:v1`
 
 ## 5. Checklist chất lượng nội dung
 
-- [ ] Thông tin lịch sử chính xác, đối chiếu SGK/nguồn chính thống, ghi `sources`.
+- [ ] Thông tin lịch sử chính xác, đối chiếu Giáo trình Lịch sử Đảng CSVN (2021) + bộ 270 câu trắc nghiệm ôn tập, ghi `sources`.
 - [ ] Mỗi era: ≥ 4 sự kiện, ≥ 2 nhân vật, ≥ 5 mốc timeline, ≥ 1 video, ≥ 2 fun fact.
 - [ ] Mỗi quiz: 5–10 câu, đủ cả 4 dạng, câu nào cũng có `explanation`.
 - [ ] Ảnh có bản quyền phù hợp (tư liệu công cộng / ghi nguồn), đã nén WebP.

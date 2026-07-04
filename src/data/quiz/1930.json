@@ -5,66 +5,84 @@
     {
       "id": "q1",
       "type": "multiple-choice",
-      "question": "Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 diễn ra ở đâu?",
-      "options": ["Cửu Long (Hương Cảng, Trung Quốc)", "Quảng Châu (Trung Quốc)", "Pác Bó (Cao Bằng)", "Ma Cao (Trung Quốc)"],
-      "correctIndex": 0,
-      "explanation": "Hội nghị hợp nhất diễn ra tại Cửu Long, Hương Cảng (Hồng Kông ngày nay) từ 06/01 đến 07/02/1930, dưới sự chủ trì của Nguyễn Ái Quốc."
+      "question": "Hoạt động nào của Nguyễn Ái Quốc có ý nghĩa là sự chuẩn bị về mặt tổ chức cho việc thành lập Đảng Cộng sản Việt Nam?",
+      "options": [
+        "Mở các lớp huấn luyện chính trị nhằm đào tạo cán bộ (1925–1927)",
+        "Chủ trì Hội nghị hợp nhất các tổ chức cộng sản (2/1930)",
+        "Tham gia sáng lập Đảng Cộng sản Pháp (12/1920)",
+        "Thành lập Hội Việt Nam Cách mạng Thanh niên (6/1925)"
+      ],
+      "correctIndex": 3,
+      "explanation": "Việc thành lập Hội Việt Nam Cách mạng Thanh niên (6/1925) là sự chuẩn bị về mặt tổ chức — tổ chức tiền thân trực tiếp rèn luyện đội ngũ cán bộ cho việc thành lập Đảng. (Câu 29, bộ 270 câu trắc nghiệm)"
     },
     {
       "id": "q2",
       "type": "multiple-choice",
-      "question": "Ai là người soạn thảo Chính cương vắn tắt, Sách lược vắn tắt — Cương lĩnh chính trị đầu tiên của Đảng?",
-      "options": ["Trần Phú", "Nguyễn Ái Quốc", "Lê Hồng Phong", "Hà Huy Tập"],
-      "correctIndex": 1,
-      "explanation": "Chính cương vắn tắt và Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo, được Hội nghị hợp nhất thông qua đầu năm 1930. Còn Luận cương chính trị (10/1930) do Trần Phú soạn."
+      "question": "Hai văn kiện nào được coi như là Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam?",
+      "options": [
+        "Chánh cương vắn tắt và Lời kêu gọi của Đảng",
+        "Sách lược vắn tắt và Lời kêu gọi của Đảng",
+        "Chánh cương vắn tắt và Sách lược vắn tắt của Đảng",
+        "Sách lược vắn tắt và Chương trình tóm tắt của Đảng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chánh cương vắn tắt và Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo, được Hội nghị thành lập Đảng thông qua, là Cương lĩnh chính trị đầu tiên của Đảng. (Câu 44, bộ 270 câu)"
     },
     {
       "id": "q3",
-      "type": "ordering",
-      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
-      "items": [
-        { "id": "a", "label": "Hội Việt Nam Cách mạng Thanh niên thành lập" },
-        { "id": "b", "label": "Ba tổ chức cộng sản lần lượt ra đời" },
-        { "id": "c", "label": "Hội nghị hợp nhất thành lập Đảng" },
-        { "id": "d", "label": "Trần Phú trở thành Tổng Bí thư đầu tiên" }
+      "type": "multiple-choice",
+      "question": "Nội dung nào sau đây nằm trong Cương lĩnh chính trị đầu tiên của Đảng?",
+      "options": [
+        "Đánh đổ đế quốc Pháp và phong kiến, làm cho nước Nam hoàn toàn độc lập",
+        "Tư sản dân quyền cách mạng là thời kỳ dự bị để làm xã hội cách mạng",
+        "Chỉ có giải phóng giai cấp vô sản thì mới giải phóng được dân tộc",
+        "Giai cấp nông dân là lực lượng lãnh đạo cách mạng"
       ],
-      "correctOrder": ["a", "b", "c", "d"],
-      "explanation": "Trình tự: Hội VNCM Thanh niên (1925) → ba tổ chức cộng sản (1929) → Hội nghị hợp nhất (đầu 1930) → Trần Phú làm Tổng Bí thư (10/1930)."
+      "correctIndex": 0,
+      "explanation": "Cương lĩnh xác định nhiệm vụ chủ yếu trước mắt: \"Đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến, làm cho nước Nam được hoàn toàn độc lập\" — chống đế quốc đặt ở vị trí hàng đầu. (Câu 45, bộ 270 câu; Giáo trình tr.65)"
     },
     {
       "id": "q4",
-      "type": "guess-figure",
-      "question": "Nhân vật trong ảnh — Tổng Bí thư đầu tiên của Đảng — là ai?",
-      "image": "/images/figures/tran-phu.webp",
-      "hint": "Người soạn thảo Luận cương chính trị tháng 10/1930, hy sinh khi mới 27 tuổi.",
-      "options": ["Trần Phú", "Lê Hồng Phong", "Nguyễn Văn Cừ", "Hà Huy Tập"],
-      "correctIndex": 0,
-      "explanation": "Đồng chí Trần Phú (1904–1931) là Tổng Bí thư đầu tiên của Đảng, nổi tiếng với câu nói trước lúc hy sinh: “Hãy giữ vững chí khí chiến đấu!”"
+      "type": "multiple-choice",
+      "question": "Cương lĩnh chính trị đầu tiên (thông qua tại Hội nghị thành lập Đảng ngày 3/2/1930) xác định giai cấp nào là lực lượng lãnh đạo cách mạng?",
+      "options": ["Giai cấp tư sản", "Giai cấp công nhân", "Giai cấp nông dân", "Giai cấp địa chủ"],
+      "correctIndex": 1,
+      "explanation": "Cương lĩnh xác định giai cấp công nhân là lực lượng lãnh đạo cách mạng Việt Nam. (Câu 42, bộ 270 câu)"
     },
     {
       "id": "q5",
-      "type": "matching",
-      "question": "Ghép sự kiện với mốc thời gian tương ứng:",
-      "pairs": [
-        { "left": "Hội nghị hợp nhất khai mạc", "right": "06/01/1930" },
-        { "left": "Ngày kỷ niệm thành lập Đảng", "right": "03/02/1930" },
-        { "left": "Đỉnh cao Xô viết Nghệ — Tĩnh", "right": "12/09/1930" },
-        { "left": "Hội nghị TƯ cử Tổng Bí thư đầu tiên", "right": "10/1930" }
-      ],
-      "explanation": "Hội nghị hợp nhất khai mạc 06/01/1930; ngày 3/2 được chọn làm ngày kỷ niệm; cuộc biểu tình Hưng Nguyên 12/09/1930 là đỉnh cao Xô viết Nghệ — Tĩnh; tháng 10/1930 Trần Phú làm Tổng Bí thư."
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — người soạn thảo Luận cương chính trị tháng 10/1930 và là Tổng Bí thư đầu tiên của Đảng — là ai?",
+      "image": "/images/figures/tran-phu.webp",
+      "hint": "Được bầu làm Tổng Bí thư tại Hội nghị Trung ương lần thứ nhất (14–31/10/1930) tại Hương Cảng.",
+      "options": ["Trần Phú", "Lê Hồng Phong", "Nguyễn Văn Cừ", "Hà Huy Tập"],
+      "correctIndex": 0,
+      "explanation": "Hội nghị Trung ương lần thứ nhất (10/1930) thông qua Luận cương chính trị do Trần Phú soạn thảo và bầu đồng chí làm Tổng Bí thư của Đảng. (Giáo trình tr.75)"
     },
     {
       "id": "q6",
-      "type": "multiple-choice",
-      "question": "Sự ra đời của Đảng Cộng sản Việt Nam là sự kết hợp giữa chủ nghĩa Mác — Lênin với những phong trào nào?",
-      "options": [
-        "Phong trào công nhân và phong trào nông dân",
-        "Phong trào công nhân và phong trào yêu nước",
-        "Phong trào yêu nước và phong trào sinh viên",
-        "Phong trào công nhân quốc tế"
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Chi bộ cộng sản đầu tiên ra đời tại 5D Hàm Long, Hà Nội" },
+        { "id": "b", "label": "Đông Dương Cộng sản Đảng thành lập" },
+        { "id": "c", "label": "Hội nghị hợp nhất thành lập Đảng Cộng sản Việt Nam" },
+        { "id": "d", "label": "Trần Phú trở thành Tổng Bí thư đầu tiên" }
       ],
-      "correctIndex": 1,
-      "explanation": "Đảng ra đời là sản phẩm của sự kết hợp chủ nghĩa Mác — Lênin với phong trào công nhân VÀ phong trào yêu nước — nét sáng tạo riêng của cách mạng Việt Nam."
+      "correctOrder": ["a", "b", "c", "d"],
+      "explanation": "Trình tự theo giáo trình: chi bộ đầu tiên (3/1929) → Đông Dương Cộng sản Đảng (17/6/1929) → Hội nghị hợp nhất (6/1 – 7/2/1930) → Trần Phú làm Tổng Bí thư (10/1930)."
+    },
+    {
+      "id": "q7",
+      "type": "matching",
+      "question": "Ghép sự kiện với mốc thời gian tương ứng (theo giáo trình):",
+      "pairs": [
+        { "left": "Đông Dương Cộng sản Đảng thành lập", "right": "17/6/1929" },
+        { "left": "An Nam Cộng sản Đảng thành lập", "right": "11/1929" },
+        { "left": "Hội nghị hợp nhất khai mạc tại Cửu Long", "right": "06/01/1930" },
+        { "left": "Hội nghị TƯ thông qua Luận cương chính trị", "right": "10/1930" }
+      ],
+      "explanation": "Theo giáo trình: Đông Dương CSĐ ra đời 17/6/1929 tại Hà Nội; An Nam CSĐ tháng 11/1929 tại Sài Gòn; Hội nghị hợp nhất khai mạc 06/01/1930; Hội nghị TƯ lần thứ nhất họp tháng 10/1930."
     }
   ]
 }

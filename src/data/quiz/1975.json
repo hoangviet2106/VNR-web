@@ -5,49 +5,76 @@
     {
       "id": "q1",
       "type": "multiple-choice",
-      "question": "Trận đánh nào mở màn cuộc Tổng tiến công và nổi dậy mùa Xuân 1975?",
-      "options": ["Buôn Ma Thuột", "Phước Long", "Huế", "Xuân Lộc"],
-      "correctIndex": 0,
-      "explanation": "Ngày 10/03/1975, quân ta bất ngờ tiến công Buôn Ma Thuột — “đòn điểm huyệt” mở màn chiến dịch Tây Nguyên, khiến toàn bộ phòng thủ của địch ở Tây Nguyên sụp đổ. (Phước Long trước đó được coi là trận “trinh sát chiến lược”.)"
+      "question": "Cuộc họp của Bộ Chính trị ngày 18/3/1975 đã quyết định điều gì?",
+      "options": [
+        "Đưa miền Bắc lên chủ nghĩa xã hội",
+        "Kêu gọi Mỹ ngừng rải chất độc màu da cam xuống các cánh rừng miền Nam",
+        "Giải phóng miền Nam trong năm 1975",
+        "Xây dựng miền Nam Việt Nam thành trung tâm tài chính đất nước"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trước thắng lợi lớn ở Tây Nguyên, cuộc họp Bộ Chính trị ngày 18/3/1975 quyết định: giải phóng miền Nam trong năm 1975. (Câu 190, bộ 270 câu; Giáo trình tr.232)"
     },
     {
       "id": "q2",
       "type": "multiple-choice",
-      "question": "Chiến dịch giải phóng Sài Gòn — Gia Định được mang tên gì?",
-      "options": [
-        "Chiến dịch Tây Nguyên",
-        "Chiến dịch Hồ Chí Minh",
-        "Chiến dịch Điện Biên Phủ trên không",
-        "Chiến dịch Trường Sơn"
-      ],
-      "correctIndex": 1,
-      "explanation": "Ngày 14/04/1975, Bộ Chính trị quyết định chiến dịch giải phóng Sài Gòn — Gia Định mang tên Chiến dịch Hồ Chí Minh."
+      "question": "\"Thần tốc, táo bạo, bất ngờ, chắc thắng\" là tinh thần và khí thế của quân ta trong chiến dịch nào?",
+      "options": ["Điện Biên Phủ", "Huế — Đà Nẵng", "Hồ Chí Minh", "Tây Nguyên"],
+      "correctIndex": 2,
+      "explanation": "Đó là tinh thần và khí thế của Chiến dịch Hồ Chí Minh giải phóng Sài Gòn — Gia Định. (Câu 191, bộ 270 câu)"
     },
     {
       "id": "q3",
-      "type": "ordering",
-      "question": "Sắp xếp các sự kiện mùa Xuân 1975 theo trình tự thời gian:",
-      "items": [
-        { "id": "a", "label": "Đánh Buôn Ma Thuột" },
-        { "id": "b", "label": "Giải phóng Huế" },
-        { "id": "c", "label": "Giải phóng Đà Nẵng" },
-        { "id": "d", "label": "Xe tăng tiến vào Dinh Độc Lập" }
+      "type": "multiple-choice",
+      "question": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam đã tạo ra bước ngoặt mới vì từ Hiệp định này, quân Mỹ đã phải:",
+      "options": [
+        "Rút quân khỏi Việt Nam, tạo thế xoay chuyển có lợi cho cách mạng",
+        "Rút quân hoàn toàn ra khỏi miền Bắc Việt Nam",
+        "Ngừng ném bom tất cả các thành phố trọng điểm ở miền Nam",
+        "Bồi thường chiến phí cho các cựu chiến binh Việt Nam"
       ],
-      "correctOrder": ["a", "b", "c", "d"],
-      "explanation": "Trình tự: Buôn Ma Thuột (10/03) → Huế (26/03) → Đà Nẵng (29/03) → Dinh Độc Lập, Sài Gòn (30/04/1975)."
+      "correctIndex": 0,
+      "explanation": "Từ Hiệp định Paris (1/1973), quân Mỹ phải rút khỏi Việt Nam, tạo thế xoay chuyển có lợi cho cách mạng miền Nam. (Câu 193, bộ 270 câu)"
     },
     {
       "id": "q4",
-      "type": "guess-figure",
-      "question": "Nhân vật trong ảnh — người cắm lá cờ giải phóng trên nóc Dinh Độc Lập trưa 30/04/1975 — là ai?",
-      "image": "/images/figures/bui-quang-than.webp",
-      "hint": "Trưởng xe tăng 843.",
-      "options": ["Bùi Quang Thận", "Vũ Đăng Toàn", "Nguyễn Văn Tập", "Lê Văn Phượng"],
+      "type": "multiple-choice",
+      "question": "Ngày 2/5/1975, những địa phương cuối cùng ở miền Nam được giải phóng là:",
+      "options": [
+        "Đồng bằng sông Cửu Long và các đảo, quần đảo ở Biển Đông",
+        "Đông Nam Bộ và các đảo, quần đảo ở Biển Đông",
+        "Nam Trung Bộ và các đảo, quần đảo ở Biển Đông",
+        "Tây Nguyên và các đảo, quần đảo ở Biển Đông"
+      ],
       "correctIndex": 0,
-      "explanation": "Đại đội trưởng Bùi Quang Thận, trưởng xe tăng 843, là người cắm cờ trên nóc Dinh Độc Lập lúc 11h30 ngày 30/04/1975."
+      "explanation": "Ngày 2/5/1975, cuộc chiến đấu giải phóng các địa phương còn lại ở đồng bằng sông Cửu Long và các đảo, quần đảo ở Biển Đông (trong đó có Trường Sa) kết thúc thắng lợi. (Câu 194, bộ 270 câu; Giáo trình tr.233)"
     },
     {
       "id": "q5",
+      "type": "guess-figure",
+      "question": "Nhân vật trong ảnh — Tư lệnh Bộ Tư lệnh Chiến dịch Hồ Chí Minh — là ai?",
+      "image": "/images/figures/van-tien-dung.webp",
+      "hint": "Đại tướng, Tổng Tham mưu trưởng, trực tiếp chỉ đạo chiến dịch Tây Nguyên trước đó.",
+      "options": ["Văn Tiến Dũng", "Võ Nguyên Giáp", "Phạm Hùng", "Trần Văn Trà"],
+      "correctIndex": 0,
+      "explanation": "Bộ Tư lệnh Chiến dịch Hồ Chí Minh: Đại tướng Văn Tiến Dũng làm Tư lệnh, đồng chí Phạm Hùng làm Chính ủy, đồng chí Trần Văn Trà làm Phó Tư lệnh. (Giáo trình tr.232)"
+    },
+    {
+      "id": "q6",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện mùa Xuân 1975 theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Giải phóng Phước Long — đòn thăm dò chiến lược" },
+        { "id": "b", "label": "Tiến công Buôn Ma Thuột, mở màn chiến dịch Tây Nguyên" },
+        { "id": "c", "label": "Giải phóng Huế, rồi Đà Nẵng" },
+        { "id": "d", "label": "Chiến dịch Hồ Chí Minh mở màn" },
+        { "id": "e", "label": "Cờ chiến thắng cắm trên Dinh Độc Lập" }
+      ],
+      "correctOrder": ["a", "b", "c", "d", "e"],
+      "explanation": "Trình tự: Phước Long (6/1/1975) → Buôn Ma Thuột (10/3) → Huế (26/3), Đà Nẵng (29/3) → Chiến dịch Hồ Chí Minh mở màn (26/4) → 11h30 ngày 30/4/1975 cờ chiến thắng trên Dinh Độc Lập."
+    },
+    {
+      "id": "q7",
       "type": "matching",
       "question": "Ghép địa danh với ngày giải phóng:",
       "pairs": [
@@ -56,23 +83,7 @@
         { "left": "Đà Nẵng", "right": "29/03" },
         { "left": "Sài Gòn", "right": "30/04" }
       ],
-      "explanation": "Cuộc Tổng tiến công lan nhanh chưa từng thấy: Buôn Ma Thuột (10–11/03) → Huế (26/03) → Đà Nẵng (29/03) → Sài Gòn (30/04/1975)."
-    },
-    {
-      "id": "q6",
-      "type": "multiple-choice",
-      "question": "Ai là Tổng thống chính quyền Sài Gòn tuyên bố đầu hàng vô điều kiện trưa 30/04/1975?",
-      "options": ["Nguyễn Văn Thiệu", "Trần Văn Hương", "Dương Văn Minh", "Nguyễn Cao Kỳ"],
-      "correctIndex": 2,
-      "explanation": "Tổng thống Dương Văn Minh (mới nhậm chức ngày 28/04) tuyên bố đầu hàng vô điều kiện trên đài phát thanh trưa 30/04/1975. Nguyễn Văn Thiệu đã từ chức và rời Việt Nam trước đó."
-    },
-    {
-      "id": "q7",
-      "type": "multiple-choice",
-      "question": "Bài hát “Như có Bác trong ngày đại thắng” do nhạc sĩ nào sáng tác?",
-      "options": ["Văn Cao", "Phạm Tuyên", "Trịnh Công Sơn", "Xuân Hồng"],
-      "correctIndex": 1,
-      "explanation": "Nhạc sĩ Phạm Tuyên sáng tác bài hát chỉ trong khoảng hai giờ đêm 28/04/1975; bài hát vang lên trên sóng phát thanh ngay trưa toàn thắng 30/04."
+      "explanation": "Cuộc Tổng tiến công lan nhanh chưa từng thấy: Buôn Ma Thuột (10–11/3) → Huế (26/3) → Đà Nẵng (29/3) → Sài Gòn (30/4/1975). (Giáo trình tr.232)"
     }
   ]
 }

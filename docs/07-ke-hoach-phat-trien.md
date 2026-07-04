@@ -99,7 +99,7 @@ Làm một mình: đi tuần tự Phase 0 → 6, soạn nội dung xen kẽ lúc
 | Rủi ro | Ảnh hưởng | Phương án |
 |---|---|---|
 | Hiệu ứng tunnel/particle giật lag máy yếu | Trải nghiệm kém | Giới hạn particle, dùng transform/opacity, đo bằng DevTools Performance sớm (Phase 2) |
-| Nội dung lịch sử sai | Mất điểm nghiêm trọng khi chấm | Đối chiếu SGK + ≥ 2 nguồn, ghi `sources`, nhờ người khác rà soát |
+| Nội dung lịch sử sai | Mất điểm nghiêm trọng khi chấm | Đối chiếu Giáo trình Lịch sử Đảng CSVN (2021), ghi `sources` kèm số trang, nhờ người khác rà soát |
 | Ảnh tư liệu vướng bản quyền | Không dám demo công khai | Ưu tiên ảnh public domain / Wikimedia Commons, ghi nguồn |
 | Kéo thả lỗi trên mobile | Quiz hỏng 2/4 dạng | Dùng @dnd-kit (hỗ trợ touch), test điện thoại thật sớm ở Phase 4 |
 | Deep-link hỏng trên GitHub Pages | Link chia sẻ 404 | Ưu tiên Vercel; nếu buộc GH Pages → HashRouter (docs 08) |

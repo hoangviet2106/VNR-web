@@ -5,84 +5,83 @@
     {
       "id": "q1",
       "type": "multiple-choice",
-      "question": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập vào ngày nào?",
-      "options": ["19/08/1945", "02/09/1945", "23/09/1945", "06/01/1946"],
-      "correctIndex": 1,
-      "explanation": "Ngày 02/09/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+      "question": "Chỉ thị \"Nhật — Pháp bắn nhau và hành động của chúng ta\" (3/1945) đã xác định kẻ thù cụ thể, trước mắt, duy nhất của nhân dân Đông Dương là:",
+      "options": ["Quân Nhật", "Quân Pháp", "Quân Đức", "Quân Tưởng"],
+      "correctIndex": 0,
+      "explanation": "Sau cuộc đảo chính ngày 9/3/1945, Chỉ thị của Ban Thường vụ Trung ương xác định kẻ thù cụ thể, trước mắt và duy nhất là phát xít Nhật. (Câu 69, bộ 270 câu; Giáo trình tr.106)"
     },
     {
       "id": "q2",
       "type": "multiple-choice",
-      "question": "Sự kiện nào tạo ra “thời cơ ngàn năm có một” cho Tổng khởi nghĩa Tháng Tám?",
+      "question": "Đảng xác định thời cơ \"ngàn năm có một\" của Cách mạng Tháng Tám 1945 tồn tại trong khoảng thời gian nào?",
       "options": [
-        "Pháp rút khỏi Đông Dương",
-        "Nhật đảo chính Pháp",
-        "Phát xít Nhật đầu hàng Đồng minh",
-        "Quân Đồng minh vào Đông Dương"
+        "Từ sau khi Nhật đầu hàng Đồng minh đến trước khi quân Đồng minh vào Đông Dương",
+        "Từ sau khi quân Đồng minh vào Đông Dương đến trước khi Nhật đầu hàng Đồng minh",
+        "Từ trước khi Nhật đầu hàng Đồng minh đến sau khi quân Đồng minh vào Đông Dương",
+        "Từ khi Nhật đảo chính Pháp đến khi Nhật đầu hàng Đồng minh"
       ],
-      "correctIndex": 2,
-      "explanation": "Ngày 15/08/1945, Nhật tuyên bố đầu hàng Đồng minh khiến quân Nhật ở Đông Dương hoang mang tê liệt, trong khi quân Đồng minh chưa kịp vào — thời cơ chín muồi để Tổng khởi nghĩa."
+      "correctIndex": 0,
+      "explanation": "Thời cơ giành chính quyền chỉ tồn tại từ khi Nhật tuyên bố đầu hàng Đồng minh đến trước khi quân Đồng minh vào Đông Dương — khoảng nửa cuối tháng 8/1945. (Câu 76, bộ 270 câu; Giáo trình tr.111)"
     },
     {
       "id": "q3",
-      "type": "ordering",
-      "question": "Sắp xếp các sự kiện năm 1945 theo trình tự thời gian:",
-      "items": [
-        { "id": "a", "label": "Nhật đảo chính Pháp" },
-        { "id": "b", "label": "Khởi nghĩa thắng lợi ở Hà Nội" },
-        { "id": "c", "label": "Vua Bảo Đại thoái vị" },
-        { "id": "d", "label": "Tuyên ngôn Độc lập" }
+      "type": "multiple-choice",
+      "question": "Hội nghị toàn quốc của Đảng (14 – 15/8/1945) đã xác định nguyên tắc để chỉ đạo khởi nghĩa là:",
+      "options": [
+        "Riêng lẻ, từng phần",
+        "Chia từng giai đoạn nhỏ",
+        "Tận dụng thời cơ mỗi giai đoạn",
+        "Tập trung, thống nhất và kịp thời"
       ],
-      "correctOrder": ["a", "b", "c", "d"],
-      "explanation": "Trình tự đúng: Nhật đảo chính Pháp (09/03) → Khởi nghĩa ở Hà Nội (19/08) → Bảo Đại thoái vị (30/08) → Tuyên ngôn Độc lập (02/09/1945)."
+      "correctIndex": 3,
+      "explanation": "Hội nghị toàn quốc của Đảng họp ở Tân Trào xác định ba nguyên tắc chỉ đạo khởi nghĩa: tập trung, thống nhất và kịp thời. (Câu 74, bộ 270 câu; Giáo trình tr.112)"
     },
     {
       "id": "q4",
-      "type": "guess-figure",
-      "question": "Nhân vật trong ảnh — người thành lập Đội Việt Nam Tuyên truyền Giải phóng quân — là ai?",
-      "image": "/images/figures/vo-nguyen-giap.webp",
-      "hint": "Vị Đại tướng đầu tiên của Quân đội nhân dân Việt Nam.",
-      "options": ["Võ Nguyên Giáp", "Phạm Văn Đồng", "Trường Chinh", "Văn Tiến Dũng"],
+      "type": "multiple-choice",
+      "question": "Ngày 16/8/1945, Đại hội quốc dân họp tại Tân Trào (Tuyên Quang) đã quyết định thành lập tổ chức nào?",
+      "options": [
+        "Ủy ban giải phóng dân tộc Việt Nam",
+        "Mặt trận Việt Minh",
+        "Ủy ban khởi nghĩa toàn quốc",
+        "Mặt trận Nhân dân Đông Dương"
+      ],
       "correctIndex": 0,
-      "explanation": "Đại tướng Võ Nguyên Giáp thành lập Đội Việt Nam Tuyên truyền Giải phóng quân ngày 22/12/1944 — tiền thân của Quân đội nhân dân Việt Nam."
+      "explanation": "Đại hội quốc dân Tân Trào tán thành quyết định tổng khởi nghĩa, thông qua 10 chính sách lớn của Việt Minh và lập Ủy ban giải phóng dân tộc Việt Nam do Hồ Chí Minh làm Chủ tịch. (Câu 77, bộ 270 câu; Giáo trình tr.112)"
     },
     {
       "id": "q5",
+      "type": "multiple-choice",
+      "question": "Cách mạng giành chính quyền ở Hà Nội trong Cách mạng Tháng Tám nổ ra vào thời gian nào?",
+      "options": ["18/8/1945", "19/8/1945", "23/8/1945", "25/8/1945"],
+      "correctIndex": 1,
+      "explanation": "Ngày 19/8/1945, quần chúng cách mạng chiếm Phủ Khâm sai, Tòa Thị chính, Trại Bảo an binh... — chính quyền về tay nhân dân tại Hà Nội. (Câu 79, bộ 270 câu; Giáo trình tr.114)"
+    },
+    {
+      "id": "q6",
+      "type": "ordering",
+      "question": "Sắp xếp các sự kiện tháng 8 – 9/1945 theo trình tự thời gian:",
+      "items": [
+        { "id": "a", "label": "Ủy ban Khởi nghĩa toàn quốc ban bố Quân lệnh số 1" },
+        { "id": "b", "label": "Đại hội quốc dân họp tại Tân Trào" },
+        { "id": "c", "label": "Khởi nghĩa thắng lợi ở Hà Nội" },
+        { "id": "d", "label": "Vua Bảo Đại thoái vị tại Ngọ Môn" },
+        { "id": "e", "label": "Lễ độc lập tại Quảng trường Ba Đình" }
+      ],
+      "correctOrder": ["a", "b", "c", "d", "e"],
+      "explanation": "Trình tự: Quân lệnh số 1 (23h ngày 13/8) → Đại hội quốc dân (16/8) → khởi nghĩa Hà Nội (19/8) → Bảo Đại thoái vị (30/8) → Lễ độc lập (2/9/1945)."
+    },
+    {
+      "id": "q7",
       "type": "matching",
       "question": "Ghép sự kiện với ngày diễn ra:",
       "pairs": [
         { "left": "Khởi nghĩa thắng lợi ở Hà Nội", "right": "19/08" },
         { "left": "Khởi nghĩa thắng lợi ở Huế", "right": "23/08" },
         { "left": "Khởi nghĩa thắng lợi ở Sài Gòn", "right": "25/08" },
-        { "left": "Vua Bảo Đại thoái vị", "right": "30/08" }
+        { "left": "Bảo Đại thoái vị, giao nộp ấn kiếm", "right": "30/08" }
       ],
-      "explanation": "Làn sóng khởi nghĩa lan từ Bắc vào Nam: Hà Nội 19/08 → Huế 23/08 → Sài Gòn 25/08; ngày 30/08 vua Bảo Đại thoái vị tại Huế."
-    },
-    {
-      "id": "q6",
-      "type": "multiple-choice",
-      "question": "Đại hội Quốc dân họp ở Tân Trào (16 – 17/08/1945) đã quyết định điều gì?",
-      "options": [
-        "Thành lập Đảng Cộng sản Việt Nam",
-        "Tán thành Tổng khởi nghĩa, cử ra Ủy ban Dân tộc giải phóng",
-        "Ký Hiệp định Sơ bộ với Pháp",
-        "Tuyên bố kháng chiến toàn quốc"
-      ],
-      "correctIndex": 1,
-      "explanation": "Đại hội Quốc dân Tân Trào tán thành chủ trương Tổng khởi nghĩa, thông qua 10 chính sách của Việt Minh, cử ra Ủy ban Dân tộc giải phóng Việt Nam do Hồ Chí Minh làm Chủ tịch."
-    },
-    {
-      "id": "q7",
-      "type": "multiple-choice",
-      "question": "Bản Tuyên ngôn Độc lập mở đầu bằng cách trích dẫn văn kiện nào?",
-      "options": [
-        "Tuyên ngôn Đảng Cộng sản",
-        "Tuyên ngôn Độc lập của Mỹ và Tuyên ngôn Nhân quyền của Pháp",
-        "Hiến chương Liên hợp quốc",
-        "Luận cương của Lênin"
-      ],
-      "correctIndex": 1,
-      "explanation": "Người mở đầu bằng “lời bất hủ” trong Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1791) để khẳng định quyền dân tộc bằng chính giá trị phương Tây công nhận."
+      "explanation": "Làn sóng khởi nghĩa: Hà Nội 19/8 → Huế 23/8 → Sài Gòn sáng 25/8 (hơn 1 triệu người biểu tình); ngày 30/8 Bảo Đại thoái vị tại Ngọ Môn, Huế. (Giáo trình tr.114–116)"
     }
   ]
 }

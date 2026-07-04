@@ -1,49 +1,57 @@
 {
   "year": 1930,
-  "title": "Thành lập Đảng Cộng sản Việt Nam",
+  "title": "Đảng Cộng sản Việt Nam ra đời",
   "heroImage": "/images/1930/hero.webp",
-  "intro": "Mùa xuân năm 1930, tại Hương Cảng, một chính đảng ra đời — chấm dứt thời kỳ khủng hoảng về đường lối cứu nước của dân tộc Việt Nam.",
+  "intro": "Mùa xuân năm 1930, tại Cửu Long (Hương Cảng), Hội nghị hợp nhất các tổ chức cộng sản đã khai sinh Đảng Cộng sản Việt Nam — chấm dứt cuộc khủng hoảng về đường lối cứu nước.",
   "context": {
     "heading": "Bối cảnh lịch sử",
     "paragraphs": [
-      "Cuối thế kỷ XIX — đầu thế kỷ XX, các phong trào yêu nước chống Pháp như Cần Vương, Đông Du, Duy Tân đều lần lượt thất bại. Cách mạng Việt Nam lâm vào khủng hoảng sâu sắc về đường lối và giai cấp lãnh đạo.",
-      "Năm 1920, Nguyễn Ái Quốc đến với chủ nghĩa Mác — Lênin và tìm ra con đường cứu nước theo cách mạng vô sản. Người sáng lập Hội Việt Nam Cách mạng Thanh niên (1925), tích cực truyền bá lý luận cách mạng về nước.",
-      "Đến cuối năm 1929, phong trào công nhân và phong trào yêu nước phát triển mạnh, ba tổ chức cộng sản lần lượt ra đời nhưng hoạt động riêng rẽ, tranh giành ảnh hưởng. Yêu cầu bức thiết đặt ra là phải thống nhất thành một chính đảng duy nhất."
+      "Đến năm 1929, trước sự phát triển mạnh mẽ của phong trào cách mạng, Hội Việt Nam Cách mạng Thanh niên không còn thích hợp và đủ sức lãnh đạo. Tháng 3/1929, chi bộ cộng sản đầu tiên ở Việt Nam được lập tại số nhà 5D phố Hàm Long (Hà Nội).",
+      "Trong năm 1929, ba tổ chức cộng sản lần lượt ra đời: Đông Dương Cộng sản Đảng (17/6/1929, Hà Nội), Đông Dương Cộng sản Liên đoàn (9/1929, từ Tân Việt Cách mạng Đảng) và An Nam Cộng sản Đảng (11/1929, Sài Gòn). Sự kiện này khẳng định bước phát triển về chất của phong trào yêu nước theo khuynh hướng cách mạng vô sản, nhưng ba tổ chức hoạt động riêng rẽ, phân tán về lực lượng.",
+      "Nhu cầu thành lập một chính đảng cách mạng có đủ khả năng tập hợp lực lượng toàn dân tộc và đảm nhiệm vai trò lãnh đạo sự nghiệp giải phóng dân tộc trở nên bức thiết. Ngày 23/12/1929, với tư cách phái viên của Quốc tế Cộng sản, Nguyễn Ái Quốc đến Hồng Kông, triệu tập hội nghị hợp nhất."
     ],
     "image": "/images/1930/context.webp",
-    "imageCaption": "Hương Cảng (Hồng Kông) — nơi diễn ra Hội nghị hợp nhất các tổ chức cộng sản, đầu năm 1930"
+    "imageCaption": "Cửu Long, Hương Cảng (Trung Quốc) — nơi diễn ra Hội nghị thành lập Đảng, đầu năm 1930"
   },
   "events": [
     {
       "id": "ev-1930-01",
       "date": "06/01 – 07/02/1930",
-      "title": "Hội nghị hợp nhất các tổ chức cộng sản",
-      "description": "Dưới sự chủ trì của Nguyễn Ái Quốc tại Cửu Long (Hương Cảng, Trung Quốc), các tổ chức cộng sản hợp nhất thành một đảng duy nhất: Đảng Cộng sản Việt Nam.",
+      "title": "Hội nghị thành lập Đảng Cộng sản Việt Nam",
+      "description": "Hội nghị họp tại Cửu Long (Hồng Kông) dưới sự chủ trì của lãnh tụ Nguyễn Ái Quốc, với 2 đại biểu Đông Dương Cộng sản Đảng (Trịnh Đình Cửu, Nguyễn Đức Cảnh) và 2 đại biểu An Nam Cộng sản Đảng (Châu Văn Liêm, Nguyễn Thiệu). Hội nghị nhất trí năm điểm lớn, định tên Đảng là Đảng Cộng sản Việt Nam — có giá trị như một Đại hội Đảng.",
       "image": "/images/1930/ev-01.webp",
       "highlight": true
     },
     {
       "id": "ev-1930-02",
       "date": "Đầu năm 1930",
-      "title": "Cương lĩnh chính trị đầu tiên",
-      "description": "Hội nghị thông qua Chính cương vắn tắt, Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo — xác định đường lối: làm cách mạng dân tộc dân chủ rồi tiến lên chủ nghĩa xã hội.",
+      "title": "Cương lĩnh chính trị đầu tiên của Đảng",
+      "description": "Hội nghị thông qua Chánh cương vắn tắt, Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo — xác định: \"chủ trương làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản\", đặt nhiệm vụ chống đế quốc, giành độc lập dân tộc ở vị trí hàng đầu.",
       "image": "/images/1930/ev-02.webp",
       "highlight": false
     },
     {
       "id": "ev-1930-03",
-      "date": "10/1930",
-      "title": "Hội nghị Ban Chấp hành Trung ương lâm thời",
-      "description": "Hội nghị họp tại Hương Cảng quyết định đổi tên Đảng thành Đảng Cộng sản Đông Dương, thông qua Luận cương chính trị và cử đồng chí Trần Phú làm Tổng Bí thư đầu tiên.",
+      "date": "24/02/1930",
+      "title": "Hoàn tất thống nhất các tổ chức cộng sản",
+      "description": "Đông Dương Cộng sản Liên đoàn được chấp nhận gia nhập Đảng Cộng sản Việt Nam — việc thống nhất các tổ chức cộng sản thành một chính đảng duy nhất được hoàn thành.",
       "image": "/images/1930/ev-03.webp",
       "highlight": false
     },
     {
       "id": "ev-1930-04",
-      "date": "1930 – 1931",
-      "title": "Cao trào Xô viết Nghệ — Tĩnh",
-      "description": "Ngay sau khi ra đời, Đảng lãnh đạo cao trào cách mạng 1930–1931 mà đỉnh cao là Xô viết Nghệ — Tĩnh: chính quyền công — nông đầu tiên xuất hiện ở nhiều làng xã.",
+      "date": "14 – 31/10/1930",
+      "title": "Hội nghị Trung ương lần thứ nhất — Luận cương chính trị",
+      "description": "Ban Chấp hành Trung ương họp Hội nghị lần thứ nhất tại Hương Cảng, quyết định đổi tên Đảng thành Đảng Cộng sản Đông Dương, thông qua Luận cương chính trị và bầu đồng chí Trần Phú làm Tổng Bí thư của Đảng.",
       "image": "/images/1930/ev-04.webp",
+      "highlight": false
+    },
+    {
+      "id": "ev-1930-05",
+      "date": "09/1930 – 1931",
+      "title": "Cao trào cách mạng và Xô viết Nghệ — Tĩnh",
+      "description": "Phong trào đấu tranh phát triển đến đỉnh cao ở Nghệ An, Hà Tĩnh. Bộ máy chính quyền tay sai nhiều nơi tan rã; các ban chấp hành nông hội đứng ra quản lý đời sống — làm chức năng chính quyền cách mạng dưới hình thức ủy ban tự quản theo kiểu Xô viết.",
+      "image": "/images/1930/ev-05.webp",
       "highlight": false
     }
   ],
@@ -53,45 +61,46 @@
       "name": "Nguyễn Ái Quốc",
       "role": "Người sáng lập Đảng Cộng sản Việt Nam",
       "portrait": "/images/figures/nguyen-ai-quoc.webp",
-      "bio": "Sinh năm 1890 tại Nghệ An. Sau 10 năm bôn ba tìm đường cứu nước, Người đến với chủ nghĩa Mác — Lênin, sáng lập Hội Việt Nam Cách mạng Thanh niên và chủ trì Hội nghị hợp nhất thành lập Đảng đầu năm 1930.",
-      "quote": "Không có gì quý hơn độc lập, tự do."
+      "bio": "Với tư cách phái viên của Quốc tế Cộng sản, Người chủ trì Hội nghị hợp nhất và trực tiếp soạn thảo các văn kiện Chánh cương vắn tắt, Sách lược vắn tắt, Chương trình tóm tắt, Điều lệ vắn tắt — Cương lĩnh chính trị đầu tiên của Đảng.",
+      "quote": "Chủ nghĩa Mác — Lênin kết hợp với phong trào công nhân và phong trào yêu nước đã dẫn tới việc thành lập Đảng."
     },
     {
       "id": "fig-tran-phu",
       "name": "Trần Phú",
       "role": "Tổng Bí thư đầu tiên của Đảng",
       "portrait": "/images/figures/tran-phu.webp",
-      "bio": "Sinh năm 1904. Người soạn thảo Luận cương chính trị tháng 10/1930 và trở thành Tổng Bí thư đầu tiên khi mới 26 tuổi. Bị địch bắt năm 1931, hy sinh khi mới 27 tuổi.",
+      "bio": "Người soạn thảo Luận cương chính trị của Đảng Cộng sản Đông Dương, được Hội nghị Trung ương lần thứ nhất (10/1930) bầu làm Tổng Bí thư khi mới 26 tuổi. Bị địch bắt năm 1931 và hy sinh ở tuổi 27.",
       "quote": "Hãy giữ vững chí khí chiến đấu!"
     }
   ],
   "timeline": [
-    { "date": "1925", "label": "Nguyễn Ái Quốc sáng lập Hội Việt Nam Cách mạng Thanh niên" },
-    { "date": "06/1929", "label": "Đông Dương Cộng sản Đảng thành lập" },
-    { "date": "08/1929", "label": "An Nam Cộng sản Đảng thành lập" },
-    { "date": "09/1929", "label": "Đông Dương Cộng sản Liên đoàn thành lập" },
-    { "date": "06/01/1930", "label": "Hội nghị hợp nhất khai mạc tại Cửu Long, Hương Cảng" },
-    { "date": "03/02/1930", "label": "Ngày kỷ niệm thành lập Đảng Cộng sản Việt Nam" },
-    { "date": "10/1930", "label": "Trần Phú trở thành Tổng Bí thư đầu tiên" },
-    { "date": "12/09/1930", "label": "Đỉnh cao Xô viết Nghệ — Tĩnh (cuộc biểu tình Hưng Nguyên)" }
+    { "date": "03/1929", "label": "Chi bộ cộng sản đầu tiên ra đời tại 5D Hàm Long, Hà Nội" },
+    { "date": "17/06/1929", "label": "Đông Dương Cộng sản Đảng thành lập tại Hà Nội" },
+    { "date": "09/1929", "label": "Tân Việt ra Tuyên đạt, lập Đông Dương Cộng sản Liên đoàn" },
+    { "date": "11/1929", "label": "An Nam Cộng sản Đảng thành lập tại Sài Gòn" },
+    { "date": "23/12/1929", "label": "Nguyễn Ái Quốc đến Hồng Kông triệu tập hội nghị hợp nhất" },
+    { "date": "06/01 – 07/02/1930", "label": "Hội nghị thành lập Đảng tại Cửu Long, Hương Cảng" },
+    { "date": "24/02/1930", "label": "Đông Dương Cộng sản Liên đoàn gia nhập Đảng" },
+    { "date": "12/09/1930", "label": "Đỉnh cao Xô viết Nghệ — Tĩnh (biểu tình Hưng Nguyên)" },
+    { "date": "14 – 31/10/1930", "label": "Hội nghị TƯ lần thứ nhất — Trần Phú làm Tổng Bí thư" }
   ],
   "videos": [],
   "funFacts": [
     {
       "question": "Vì sao lấy ngày 3/2 làm ngày thành lập Đảng?",
-      "answer": "Hội nghị hợp nhất thực tế diễn ra từ ngày 06/01 đến 07/02/1930. Đến Đại hội III của Đảng (năm 1960) mới quyết nghị lấy ngày 3 tháng 2 hằng năm làm ngày kỷ niệm thành lập Đảng."
+      "answer": "Hội nghị hợp nhất thực tế họp từ 06/01 đến 07/02/1930. Đại hội đại biểu toàn quốc lần thứ III của Đảng (tháng 9/1960) quyết nghị lấy ngày 3 tháng 2 dương lịch hằng năm làm ngày kỷ niệm thành lập Đảng."
+    },
+    {
+      "question": "Hội nghị thành lập Đảng bàn những gì?",
+      "answer": "Lãnh tụ Nguyễn Ái Quốc nêu năm điểm lớn: bỏ mọi thành kiến xung đột cũ; định tên Đảng là Đảng Cộng sản Việt Nam; thảo Chính cương và Điều lệ sơ lược; định kế hoạch thống nhất trong nước; cử một Ban Trung ương lâm thời. Giáo trình đánh giá hội nghị này \"có giá trị như một Đại hội Đảng\"."
     },
     {
       "question": "Đảng ra đời là sự kết hợp của những yếu tố nào?",
-      "answer": "Đảng Cộng sản Việt Nam ra đời là sản phẩm của sự kết hợp giữa chủ nghĩa Mác — Lênin với phong trào công nhân và phong trào yêu nước Việt Nam — một điểm sáng tạo so với công thức chung của quốc tế."
-    },
-    {
-      "question": "Tổng Bí thư đầu tiên bao nhiêu tuổi khi nhậm chức?",
-      "answer": "Đồng chí Trần Phú trở thành Tổng Bí thư đầu tiên của Đảng vào tháng 10/1930 khi mới 26 tuổi, và hy sinh chỉ một năm sau đó ở tuổi 27."
+      "answer": "Theo Chủ tịch Hồ Chí Minh: \"Chủ nghĩa Mác — Lênin kết hợp với phong trào công nhân và phong trào yêu nước đã dẫn tới việc thành lập Đảng\" — sự kết hợp ba yếu tố, trong đó phong trào yêu nước là nét sáng tạo riêng của cách mạng Việt Nam."
     }
   ],
   "sources": [
-    "Sách giáo khoa Lịch sử 12, NXB Giáo dục Việt Nam",
+    "Giáo trình Lịch sử Đảng Cộng sản Việt Nam (Bộ GD&ĐT, NXB Chính trị quốc gia Sự thật, 2021), tr.56–80",
     "Văn kiện Đảng toàn tập, NXB Chính trị quốc gia"
   ]
 }
