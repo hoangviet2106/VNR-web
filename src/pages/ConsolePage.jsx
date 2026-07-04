@@ -47,17 +47,17 @@ export default function ConsolePage() {
         <motion.h1
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
-          className="font-display text-3xl font-bold tracking-widest text-glow drop-shadow-[0_0_12px_rgba(34,211,238,0.6)] sm:text-4xl md:text-6xl"
+          className="font-display text-3xl font-bold tracking-widest text-glow drop-shadow-[0_0_12px_rgba(34,211,238,0.6)] sm:text-5xl md:text-7xl"
         >
           <GlitchText text="CỖ MÁY THỜI GIAN" />
         </motion.h1>
-        <p className="mt-3 font-mono text-xs text-slate-400 sm:text-sm">
+        <p className="mt-4 font-mono text-sm text-slate-400 md:text-base">
           » Chọn điểm đến trong dòng thời gian «
         </p>
       </div>
 
       {/* Bộ chọn mốc thời gian */}
-      <div className="grid w-full max-w-4xl grid-cols-1 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-5">
+      <div className="grid w-full max-w-6xl grid-cols-1 gap-3 sm:grid-cols-3 sm:gap-4 lg:grid-cols-5 lg:gap-5">
         {eras.map((era) => (
           <EraCard
             key={era.year}
@@ -71,7 +71,7 @@ export default function ConsolePage() {
       </div>
 
       {/* Màn hình LED điểm đến */}
-      <div className="w-full max-w-md rounded border border-space-700 bg-space-900/90 px-4 py-3 text-center font-mono text-xs sm:text-sm">
+      <div className="w-full max-w-2xl rounded-lg border border-space-700 bg-space-900/90 px-6 py-4 text-center font-mono text-sm md:text-base">
         {selected ? (
           <span className="text-energy">
             ĐIỂM ĐẾN: {selected.year} — {selected.title}
@@ -87,7 +87,7 @@ export default function ConsolePage() {
           onClick={handleStart}
           disabled={!selected}
           whileTap={selected ? { scale: 0.95 } : undefined}
-          className={`rounded-full border px-14 py-4 font-display text-xl font-bold tracking-widest transition-all ${
+          className={`rounded-full border px-16 py-4 font-display text-xl font-bold tracking-widest transition-all md:px-20 md:py-5 md:text-2xl ${
             selected
               ? 'animate-pulse-glow border-glow text-glow'
               : 'cursor-not-allowed border-space-700 text-slate-600'
