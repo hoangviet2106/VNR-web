@@ -56,7 +56,7 @@ export default function EraPage() {
 
       <EraHero meta={meta} intro={era?.intro} />
 
-      <div className="mx-auto max-w-4xl space-y-16 px-4 pb-20">
+      <div className="mx-auto max-w-6xl space-y-16 px-4 pb-20 md:px-8">
         {/* Bối cảnh */}
         {era?.context?.paragraphs?.length > 0 && (
           <Reveal>
@@ -64,7 +64,7 @@ export default function EraPage() {
               <SectionHeading themeColor={color}>
                 {era.context.heading?.toUpperCase() || 'BỐI CẢNH LỊCH SỬ'}
               </SectionHeading>
-              <div className="grid gap-6 md:grid-cols-[1.4fr_1fr]">
+              <div className="grid items-start gap-8 md:grid-cols-[1.5fr_1fr]">
                 <div>
                   {era.context.paragraphs.map((p, i) => (
                     <p key={i} className="mb-4 leading-relaxed text-slate-300">
@@ -77,7 +77,7 @@ export default function EraPage() {
                     src={era.context.image}
                     alt={era.context.imageCaption || 'Ảnh tư liệu bối cảnh'}
                     themeColor={color}
-                    className="h-52 w-full rounded-lg"
+                    className="h-64 w-full rounded-lg md:h-72"
                   />
                   {era.context.imageCaption && (
                     <figcaption className="mt-2 text-center text-xs text-slate-500">
@@ -94,7 +94,7 @@ export default function EraPage() {
         {era?.events?.length > 0 && (
           <section>
             <SectionHeading themeColor={color}>SỰ KIỆN NỔI BẬT</SectionHeading>
-            <div className="grid gap-4 sm:grid-cols-2">
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {era.events.map((ev, i) => (
                 <Reveal key={ev.id} delay={i * 0.06} className={ev.highlight ? 'sm:col-span-2' : ''}>
                   <EventCard event={ev} themeColor={color} />
@@ -159,7 +159,7 @@ export default function EraPage() {
 
       {/* CTA + điều hướng */}
       <section className="border-t border-space-700 px-4 py-12">
-        <div className="mx-auto flex max-w-4xl flex-wrap items-center justify-center gap-4">
+        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-center gap-4">
           <Link
             to={ROUTES.quiz(year)}
             className="rounded-full border border-energy px-8 py-3 font-display text-energy transition hover:shadow-[0_0_20px_rgba(251,191,36,0.4)]"
@@ -176,7 +176,7 @@ export default function EraPage() {
           )}
         </div>
         {era?.sources?.length > 0 && (
-          <div className="mx-auto mt-10 max-w-4xl border-t border-space-800 pt-4">
+          <div className="mx-auto mt-10 max-w-6xl border-t border-space-800 pt-4">
             <p className="font-mono text-[10px] uppercase tracking-widest text-slate-600">
               Nguồn tham khảo
             </p>
